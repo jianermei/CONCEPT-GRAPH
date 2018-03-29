@@ -1,0 +1,4001 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="directed">
+    <node id="日本の人権" />
+    <node id="脊椎動物" />
+    <node id="水環境" />
+    <node id="分類学" />
+    <node id="一覧のカテゴリ" />
+    <node id="日本の憲法" />
+    <node id="分野別の組織" />
+    <node id="文法" />
+    <node id="総合競技大会" />
+    <node id="不公平" />
+    <node id="経済学の分野" />
+    <node id="知的財産法" />
+    <node id="セキュリティ" />
+    <node id="20世紀のヨーロッパ" />
+    <node id="各国の政治" />
+    <node id="2000年代" />
+    <node id="企業法" />
+    <node id="通信" />
+    <node id="哲学の概念" />
+    <node id="水素の化合物" />
+    <node id="熱" />
+    <node id="工作物" />
+    <node id="行政学" />
+    <node id="時間別に分類したカテゴリ" />
+    <node id="心の哲学" />
+    <node id="地域別に分類したカテゴリ" />
+    <node id="現存しない事物" />
+    <node id="ランキング" />
+    <node id="開発経済学" />
+    <node id="東洋文化" />
+    <node id="地球物理学" />
+    <node id="語彙論" />
+    <node id="道具" />
+    <node id="設計" />
+    <node id="暦" />
+    <node id="行政法" />
+    <node id="各国の地理" />
+    <node id="ギネス世界記録" />
+    <node id="政治思想" />
+    <node id="神経科学" />
+    <node id="初等数学" />
+    <node id="ユーラシア" />
+    <node id="認識論の概念" />
+    <node id="品詞" />
+    <node id="20世紀の経済史" />
+    <node id="動作" />
+    <node id="量子力学" />
+    <node id="厚生経済学" />
+    <node id="カテゴリを集めたカテゴリ_(分類指標別)" />
+    <node id="ドイツの政治" />
+    <node id="実数" />
+    <node id="応用倫理学" />
+    <node id="選挙" />
+    <node id="力学" />
+    <node id="戦争" />
+    <node id="レジャー" />
+    <node id="制御理論" />
+    <node id="通信インフラ" />
+    <node id="政治概念" />
+    <node id="ヨーロッパの地域" />
+    <node id="世論" />
+    <node id="福祉国家" />
+    <node id="地球史" />
+    <node id="学問分野の応用" />
+    <node id="各国のナショナリズム" />
+    <node id="文化施設" />
+    <node id="脊索動物" />
+    <node id="コンピュータの利用" />
+    <node id="国際経済学" />
+    <node id="アメリカ合衆国の歴史_(現代)" />
+    <node id="経済問題" />
+    <node id="解剖学" />
+    <node id="流通" />
+    <node id="遺伝学" />
+    <node id="ヨーロッパ研究" />
+    <node id="暦法" />
+    <node id="分野別の法" />
+    <node id="大日本帝国" />
+    <node id="情報通信業" />
+    <node id="組織学" />
+    <node id="ゲーム" />
+    <node id="民族差別" />
+    <node id="1千年紀" />
+    <node id="原子物理学" />
+    <node id="物質の相" />
+    <node id="形而上学の概念" />
+    <node id="人類学" />
+    <node id="日本のカテゴリを集めたカテゴリ" />
+    <node id="イギリス" />
+    <node id="ミクロ経済学" />
+    <node id="感覚器" />
+    <node id="自然法論" />
+    <node id="大陸別の国" />
+    <node id="反ファシズム" />
+    <node id="地史学" />
+    <node id="ドイツの国際関係" />
+    <node id="社会経済学" />
+    <node id="心理学の分野" />
+    <node id="有胎盤類" />
+    <node id="土木工学" />
+    <node id="デジタル技術" />
+    <node id="かつて存在した地名" />
+    <node id="メタ哲学" />
+    <node id="権威主義" />
+    <node id="気体" />
+    <node id="哲学的伝統" />
+    <node id="国別に分類したカテゴリ" />
+    <node id="環境思想" />
+    <node id="伝承" />
+    <node id="建築物" />
+    <node id="人体の部位" />
+    <node id="身体装飾" />
+    <node id="植民主義" />
+    <node id="力_(自然科学)" />
+    <node id="歯学" />
+    <node id="地域別の政治" />
+    <node id="ネットワーク技術" />
+    <node id="複素数" />
+    <node id="民族集団" />
+    <node id="アジアの言語" />
+    <node id="歴史学" />
+    <node id="分野別の技術" />
+    <node id="ヨーロッパ" />
+    <node id="第三の位置" />
+    <node id="計算機工学" />
+    <node id="物理量" />
+    <node id="19世紀" />
+    <node id="人的災害" />
+    <node id="物質の性質" />
+    <node id="分析" />
+    <node id="文化圏" />
+    <node id="日本の地名" />
+    <node id="科学的方法" />
+    <node id="アメリカ合衆国の経済" />
+    <node id="工学" />
+    <node id="日本の地理" />
+    <node id="憎悪" />
+    <node id="風俗" />
+    <node id="デザイン" />
+    <node id="日本の地域" />
+    <node id="個人主義" />
+    <node id="安全保障" />
+    <node id="組織心理学" />
+    <node id="社会言語学" />
+    <node id="大陸別の地理" />
+    <node id="原理" />
+    <node id="領有権問題" />
+    <node id="環境学" />
+    <node id="大陸別の環境" />
+    <node id="素粒子物理学" />
+    <node id="社会制度" />
+    <node id="物理システム" />
+    <node id="習俗" />
+    <node id="中世ヨーロッパの文化" />
+    <node id="地理学" />
+    <node id="民族別の人物" />
+    <node id="人事労務管理" />
+    <node id="インタフェース" />
+    <node id="サービス業" />
+    <node id="大陸別の歴史" />
+    <node id="西ゲルマン語群" />
+    <node id="筆記媒体" />
+    <node id="感情" />
+    <node id="人工知能" />
+    <node id="国境" />
+    <node id="政治学" />
+    <node id="日本の人種・民族問題" />
+    <node id="日本の地方自治" />
+    <node id="神経システム" />
+    <node id="情報" />
+    <node id="イギリスの文化" />
+    <node id="社会思想" />
+    <node id="機械工学" />
+    <node id="スポーツに関するイベント" />
+    <node id="外交政策" />
+    <node id="初等幾何学" />
+    <node id="霊長類学" />
+    <node id="宇宙" />
+    <node id="教育段階" />
+    <node id="アメリカ" />
+    <node id="ビデオ" />
+    <node id="日用品" />
+    <node id="創造性" />
+    <node id="言葉の文化" />
+    <node id="グローバル化の問題" />
+    <node id="各国のレイシズム" />
+    <node id="寡頭制" />
+    <node id="生物の文化" />
+    <node id="インフラストラクチャー" />
+    <node id="ヨーロッパ史" />
+    <node id="代数学" />
+    <node id="電子工学" />
+    <node id="学際領域" />
+    <node id="色" />
+    <node id="統計学" />
+    <node id="コンテスト" />
+    <node id="地域別の地理" />
+    <node id="図書館情報学" />
+    <node id="国際スポーツ競技大会" />
+    <node id="社会主義" />
+    <node id="各国の地域史" />
+    <node id="心理学の概念" />
+    <node id="コンピュータアーキテクチャ" />
+    <node id="人権問題" />
+    <node id="憲法" />
+    <node id="地質学" />
+    <node id="アメリカ合衆国の歴史" />
+    <node id="学派" />
+    <node id="酸化物" />
+    <node id="公法" />
+    <node id="原子核物理学" />
+    <node id="開発" />
+    <node id="周期現象" />
+    <node id="生物学の分野" />
+    <node id="自然保護" />
+    <node id="数理経済学" />
+    <node id="起源・発祥" />
+    <node id="政治史" />
+    <node id="各世紀のヨーロッパ" />
+    <node id="政党" />
+    <node id="グラフ理論" />
+    <node id="名前" />
+    <node id="マクロ経済学" />
+    <node id="社会教育" />
+    <node id="学生" />
+    <node id="医療" />
+    <node id="第一級行政区画" />
+    <node id="コンピュータの形態" />
+    <node id="ドイツの言語" />
+    <node id="社会法" />
+    <node id="総記" />
+    <node id="運動学" />
+    <node id="アメリカ合衆国のテーマ史" />
+    <node id="動物解剖学" />
+    <node id="コミュニケーション" />
+    <node id="倫理学の理論" />
+    <node id="科学の認識論" />
+    <node id="図書館" />
+    <node id="哺乳類" />
+    <node id="公衆衛生" />
+    <node id="地域別の哲学" />
+    <node id="日本の行政" />
+    <node id="大脳辺縁系" />
+    <node id="社会的少数者" />
+    <node id="時間" />
+    <node id="施設" />
+    <node id="有理数" />
+    <node id="非営利組織" />
+    <node id="力学系" />
+    <node id="臨床医学" />
+    <node id="神経症性・ストレス関連及び身体表現性障害" />
+    <node id="20世紀の世界史" />
+    <node id="哲学の理論" />
+    <node id="19世紀のアジア" />
+    <node id="デジタル信号処理" />
+    <node id="社会システム" />
+    <node id="装飾" />
+    <node id="生理学" />
+    <node id="恐怖症" />
+    <node id="人間関係" />
+    <node id="無線" />
+    <node id="記憶" />
+    <node id="光学" />
+    <node id="数理的手法と定量的手法(経済学)" />
+    <node id="青年" />
+    <node id="国家" />
+    <node id="ドイツの政府" />
+    <node id="社会問題" />
+    <node id="加工" />
+    <node id="勝利" />
+    <node id="自然" />
+    <node id="参考" />
+    <node id="臨床心理学" />
+    <node id="宇宙論・宇宙物理学" />
+    <node id="博物学" />
+    <node id="移動現象" />
+    <node id="磁気" />
+    <node id="代数的数" />
+    <node id="服飾" />
+    <node id="動機づけ" />
+    <node id="北アメリカの地方区分" />
+    <node id="世界記録" />
+    <node id="頭頸部" />
+    <node id="軍事史" />
+    <node id="大陸法系" />
+    <node id="政治システム" />
+    <node id="テーマ別のメディア" />
+    <node id="整数" />
+    <node id="文書" />
+    <node id="アメリカ大陸史" />
+    <node id="電磁波" />
+    <node id="国際競技大会" />
+    <node id="水" />
+    <node id="機器" />
+    <node id="材料工学" />
+    <node id="法思想史" />
+    <node id="離散数学" />
+    <node id="神経解剖学" />
+    <node id="地域別の言語" />
+    <node id="人間" />
+    <node id="スポーツの文化" />
+    <node id="建設" />
+    <node id="アイデンティティ" />
+    <node id="社会教育施設" />
+    <node id="文房具" />
+    <node id="都市" />
+    <node id="関東地方" />
+    <node id="人間とコンピュータの相互作用" />
+    <node id="物理学" />
+    <node id="アメリカ合衆国の社会" />
+    <node id="教育心理学" />
+    <node id="造船" />
+    <node id="決定理論" />
+    <node id="テーマ別に分類したカテゴリ" />
+    <node id="非金属元素" />
+    <node id="意思決定" />
+    <node id="代数的整数論" />
+    <node id="名詞" />
+    <node id="伝統" />
+    <node id="各国の法" />
+    <node id="媒体" />
+    <node id="ナショナリズム" />
+    <node id="商業施設" />
+    <node id="貿易" />
+    <node id="皮膚" />
+    <node id="図" />
+    <node id="獣医学" />
+    <node id="芸術" />
+    <node id="教育" />
+    <node id="日本の都道府県" />
+    <node id="内地" />
+    <node id="君主国" />
+    <node id="プロジェクト" />
+    <node id="政治地理学" />
+    <node id="動力学" />
+    <node id="テーマ史" />
+    <node id="信号処理" />
+    <node id="美" />
+    <node id="社会運動" />
+    <node id="環境" />
+    <node id="西洋哲学" />
+    <node id="信念" />
+    <node id="日本の行政区画" />
+    <node id="ジャンル" />
+    <node id="外国人" />
+    <node id="地球科学" />
+    <node id="紛争" />
+    <node id="デジタルシステム" />
+    <node id="器官" />
+    <node id="腐敗" />
+    <node id="歴史の一覧" />
+    <node id="評価方法" />
+    <node id="評価" />
+    <node id="複製" />
+    <node id="社会心理学" />
+    <node id="法系別の法" />
+    <node id="技術史" />
+    <node id="環境ヒューマニティー" />
+    <node id="ヨーロッパの言語" />
+    <node id="コンピュータネットワーク" />
+    <node id="哲学的方法論" />
+    <node id="酸素の化合物" />
+    <node id="実体法" />
+    <node id="産業史" />
+    <node id="本質主義" />
+    <node id="大陸別の地域" />
+    <node id="産業" />
+    <node id="概念体系" />
+    <node id="哲学的論理学" />
+    <node id="芸術の歴史" />
+    <node id="形態論" />
+    <node id="ドイツの文化" />
+    <node id="システム工学" />
+    <node id="振動と波動" />
+    <node id="日本の時代区分" />
+    <node id="海" />
+    <node id="視覚" />
+    <node id="健康問題" />
+    <node id="東アジア史" />
+    <node id="ドイツの歴史" />
+    <node id="プロジェクトマネジメント" />
+    <node id="動物学" />
+    <node id="テレビ" />
+    <node id="ゲルマン人" />
+    <node id="方法論" />
+    <node id="主権" />
+    <node id="太陽系の惑星" />
+    <node id="交通" />
+    <node id="生物" />
+    <node id="サイバネティックス" />
+    <node id="カルコゲン化物" />
+    <node id="自然科学" />
+    <node id="治安" />
+    <node id="アジアの地域" />
+    <node id="治安問題" />
+    <node id="工業" />
+    <node id="各国の国際関係" />
+    <node id="ヨーロッパの政治" />
+    <node id="政治団体" />
+    <node id="近代史" />
+    <node id="民族の系統" />
+    <node id="脊椎動物の解剖学" />
+    <node id="危機管理" />
+    <node id="企業統治" />
+    <node id="燃料" />
+    <node id="経営学" />
+    <node id="コンピュータシステム" />
+    <node id="容姿" />
+    <node id="加速度" />
+    <node id="システム科学" />
+    <node id="神秘主義" />
+    <node id="文書作成" />
+    <node id="政治学の理論" />
+    <node id="形態学_(生物学)" />
+    <node id="ビジネス経済学" />
+    <node id="宗教的哲学" />
+    <node id="社会科学" />
+    <node id="政治イデオロギー" />
+    <node id="参考文献" />
+    <node id="アルゴリズム" />
+    <node id="哲学のムーブメント" />
+    <node id="哲学" />
+    <node id="行動" />
+    <node id="国際関係" />
+    <node id="公平" />
+    <node id="不動産" />
+    <node id="意識" />
+    <node id="言語学" />
+    <node id="ドイツ" />
+    <node id="商業" />
+    <node id="民族" />
+    <node id="競技会" />
+    <node id="輸送機器" />
+    <node id="資料学" />
+    <node id="心" />
+    <node id="各国の行政" />
+    <node id="国民経済" />
+    <node id="倫理学の概念" />
+    <node id="単位" />
+    <node id="酸素" />
+    <node id="ヒエラルキー" />
+    <node id="ヨーロッパの国" />
+    <node id="差別" />
+    <node id="心の形而上学" />
+    <node id="法" />
+    <node id="生物材料" />
+    <node id="アジアの社会" />
+    <node id="ヨーロッパの地理" />
+    <node id="インテリアデザイン" />
+    <node id="社会理論" />
+    <node id="知能" />
+    <node id="学習" />
+    <node id="電子" />
+    <node id="外国人嫌悪" />
+    <node id="精神" />
+    <node id="制御工学" />
+    <node id="電気工学" />
+    <node id="経済的自由主義" />
+    <node id="権利" />
+    <node id="群集心理学" />
+    <node id="ドイツ語" />
+    <node id="コンピュータ" />
+    <node id="電磁気学" />
+    <node id="記録" />
+    <node id="各国史の時代区分" />
+    <node id="教育機関" />
+    <node id="惑星系" />
+    <node id="各国の言語" />
+    <node id="天文学史" />
+    <node id="夏季オリンピックの開催都市" />
+    <node id="人種差別" />
+    <node id="大脳" />
+    <node id="亜原子粒子" />
+    <node id="コンピュータの仕組み" />
+    <node id="場所別の社会" />
+    <node id="労働関連の組織" />
+    <node id="結晶" />
+    <node id="応用科学" />
+    <node id="データ転送" />
+    <node id="各国の地域" />
+    <node id="紙" />
+    <node id="製造" />
+    <node id="画像処理" />
+    <node id="記号学" />
+    <node id="世界観" />
+    <node id="美学の理論" />
+    <node id="知識表現" />
+    <node id="パーソナルコンピュータ" />
+    <node id="建築" />
+    <node id="アジアの地理" />
+    <node id="家計" />
+    <node id="分野別作品" />
+    <node id="社会変動" />
+    <node id="頭" />
+    <node id="ポストモダニズム" />
+    <node id="応用数学" />
+    <node id="政治情報" />
+    <node id="各種の宗教" />
+    <node id="法系" />
+    <node id="化合物" />
+    <node id="歴史の分野" />
+    <node id="文化経済学" />
+    <node id="アジアの首都" />
+    <node id="アジア" />
+    <node id="天体物理学" />
+    <node id="記号" />
+    <node id="民事法" />
+    <node id="初等教育" />
+    <node id="世紀" />
+    <node id="物理化学" />
+    <node id="リバタリアニズム" />
+    <node id="各国の人権" />
+    <node id="無機化学" />
+    <node id="ヨーロッパ史_(国別)" />
+    <node id="形式的認識論" />
+    <node id="島" />
+    <node id="国籍" />
+    <node id="労働" />
+    <node id="実験心理学" />
+    <node id="水運" />
+    <node id="作品" />
+    <node id="理論物理学" />
+    <node id="バルカン" />
+    <node id="人権" />
+    <node id="哲学の関連分野" />
+    <node id="農林水産業" />
+    <node id="複素解析" />
+    <node id="アジア史_(時代別)" />
+    <node id="気象" />
+    <node id="現実" />
+    <node id="大陸法系の法" />
+    <node id="国内政策" />
+    <node id="学問の分野" />
+    <node id="大陸別の文化" />
+    <node id="目" />
+    <node id="長さ" />
+    <node id="恒星" />
+    <node id="各国の政府" />
+    <node id="開発学" />
+    <node id="かつて存在した日本の地名" />
+    <node id="情報技術" />
+    <node id="死" />
+    <node id="学問" />
+    <node id="各国の歴史" />
+    <node id="人間の移動" />
+    <node id="地域別の経済" />
+    <node id="北アメリカの国" />
+    <node id="ヨーロッパの人物" />
+    <node id="資源" />
+    <node id="心理学" />
+    <node id="人物" />
+    <node id="技法" />
+    <node id="コーポラティズム" />
+    <node id="情報法" />
+    <node id="ドイツの社会" />
+    <node id="教育の分野" />
+    <node id="日本の法" />
+    <node id="情報社会" />
+    <node id="事件" />
+    <node id="思考" />
+    <node id="人権侵害" />
+    <node id="現象" />
+    <node id="日本の政治史" />
+    <node id="元素群" />
+    <node id="グローバリゼーション" />
+    <node id="化学物質" />
+    <node id="日本の公法" />
+    <node id="電気" />
+    <node id="地域史" />
+    <node id="ゲーム理論" />
+    <node id="古典的自由主義" />
+    <node id="惑星" />
+    <node id="遊び" />
+    <node id="各国の行政区分" />
+    <node id="協働" />
+    <node id="経済史" />
+    <node id="ヨーロッパ史_(時代別)" />
+    <node id="放送" />
+    <node id="日本の地域ブロック" />
+    <node id="分析哲学" />
+    <node id="装飾美術" />
+    <node id="水域" />
+    <node id="政治" />
+    <node id="表現技術" />
+    <node id="イベント" />
+    <node id="哲学の主題" />
+    <node id="言語地理学" />
+    <node id="美学" />
+    <node id="人口" />
+    <node id="国際法" />
+    <node id="労働社会学" />
+    <node id="科学" />
+    <node id="健康" />
+    <node id="美術のジャンル" />
+    <node id="アイデンティティ・ポリティクス" />
+    <node id="思想史" />
+    <node id="情報学" />
+    <node id="テーマ別のイベント" />
+    <node id="ソフトウェア工学" />
+    <node id="大気汚染" />
+    <node id="記憶装置" />
+    <node id="印刷" />
+    <node id="大陸別の政治" />
+    <node id="大陸別の人物" />
+    <node id="国防" />
+    <node id="材料" />
+    <node id="計画" />
+    <node id="通信工学" />
+    <node id="哲学の学派" />
+    <node id="データ構造" />
+    <node id="プログラミング" />
+    <node id="基礎医学" />
+    <node id="水文学" />
+    <node id="固体物理学" />
+    <node id="構造地質学" />
+    <node id="書物" />
+    <node id="フェルミ粒子" />
+    <node id="東欧" />
+    <node id="飲食" />
+    <node id="社会における科学" />
+    <node id="人間科学" />
+    <node id="精神障害" />
+    <node id="科学哲学の理論" />
+    <node id="医学" />
+    <node id="人文地理学" />
+    <node id="ハードウェア" />
+    <node id="歴史地理学" />
+    <node id="言語" />
+    <node id="国民" />
+    <node id="科学哲学" />
+    <node id="経済学" />
+    <node id="化学" />
+    <node id="地政学" />
+    <node id="工学史" />
+    <node id="企業" />
+    <node id="自由主義" />
+    <node id="迫害" />
+    <node id="日本の歴史" />
+    <node id="教育制度" />
+    <node id="製品" />
+    <node id="法学史" />
+    <node id="哲学の分野" />
+    <node id="" />
+    <node id="光" />
+    <node id="AV機器" />
+    <node id="各国のテーマ史" />
+    <node id="宇宙空間" />
+    <node id="教育学" />
+    <node id="大陸" />
+    <node id="無政府主義" />
+    <node id="気候変動の原因" />
+    <node id="過去" />
+    <node id="社会概念" />
+    <node id="行政" />
+    <node id="各国の政治史" />
+    <node id="反資本主義" />
+    <node id="地域別の民族" />
+    <node id="生命" />
+    <node id="恐怖" />
+    <node id="価値観" />
+    <node id="思想" />
+    <node id="帝国" />
+    <node id="統計力学" />
+    <node id="ビジネススキル" />
+    <node id="エネルギー" />
+    <node id="公共経済学" />
+    <node id="物理化学の現象" />
+    <node id="標準" />
+    <node id="不平等" />
+    <node id="模様" />
+    <node id="マクロ解剖学" />
+    <node id="国の分類" />
+    <node id="地域別の文化" />
+    <node id="工学の分野" />
+    <node id="20世紀哲学" />
+    <node id="情報機器" />
+    <node id="データ管理" />
+    <node id="感覚" />
+    <node id="気候変動" />
+    <node id="分野別に分類したカテゴリ" />
+    <node id="未来学" />
+    <node id="日本の環境" />
+    <node id="交通_(方法別)" />
+    <node id="ソフトウェア" />
+    <node id="北アメリカ史" />
+    <node id="場所別の環境" />
+    <node id="経済理論" />
+    <node id="対外情緒" />
+    <node id="比較言語学" />
+    <node id="日本の制度史" />
+    <node id="主要カテゴリ" />
+    <node id="出版" />
+    <node id="時代別に分類したカテゴリ" />
+    <node id="元素" />
+    <node id="科学的専門分野" />
+    <node id="消費者" />
+    <node id="オカルト" />
+    <node id="工作" />
+    <node id="不安障害" />
+    <node id="数理物理学" />
+    <node id="健康政策" />
+    <node id="マーケティング" />
+    <node id="芸術運動" />
+    <node id="日本" />
+    <node id="年表" />
+    <node id="日本の差別" />
+    <node id="書誌学" />
+    <node id="政体別の国家" />
+    <node id="危機" />
+    <node id="宗教哲学" />
+    <node id="天文学" />
+    <node id="経済思想の歴史" />
+    <node id="動物" />
+    <node id="領土" />
+    <node id="食科学" />
+    <node id="美術史" />
+    <node id="古代史" />
+    <node id="オペレーションズリサーチ" />
+    <node id="軍事学" />
+    <node id="中欧" />
+    <node id="問題" />
+    <node id="労働法" />
+    <node id="日本の人権侵害" />
+    <node id="オリンピック" />
+    <node id="テーマ別の文化" />
+    <node id="天体" />
+    <node id="経済地理学" />
+    <node id="宗教学" />
+    <node id="健康の決定要因" />
+    <node id="政治運動" />
+    <node id="各国の地方区分" />
+    <node id="国" />
+    <node id="時代区分" />
+    <node id="機械工作" />
+    <node id="戦略" />
+    <node id="コミュニティ" />
+    <node id="人種" />
+    <node id="調査" />
+    <node id="スピリチュアリティ" />
+    <node id="組合せ論" />
+    <node id="北アメリカ" />
+    <node id="紀年法" />
+    <node id="語族" />
+    <node id="スポーツ競技" />
+    <node id="大陸別の社会" />
+    <node id="社会政策" />
+    <node id="地球" />
+    <node id="非平衡熱力学" />
+    <node id="民俗文化" />
+    <node id="地理" />
+    <node id="DIY" />
+    <node id="文化運動" />
+    <node id="日本の歴史的地名" />
+    <node id="機械" />
+    <node id="通信プロトコル" />
+    <node id="島国" />
+    <node id="ドイツのナショナリズム" />
+    <node id="地名" />
+    <node id="各国のメディア" />
+    <node id="生活" />
+    <node id="2千年紀" />
+    <node id="認識論" />
+    <node id="構造物" />
+    <node id="脳神経解剖学" />
+    <node id="政治文化" />
+    <node id="数" />
+    <node id="物性物理学" />
+    <node id="筆記" />
+    <node id="脳" />
+    <node id="腐敗防止法" />
+    <node id="土木" />
+    <node id="語" />
+    <node id="熱力学" />
+    <node id="分子" />
+    <node id="固有名詞学" />
+    <node id="法哲学" />
+    <node id="各国の社会" />
+    <node id="末梢神経系" />
+    <node id="医療経済学" />
+    <node id="気候因子" />
+    <node id="日本の地方区分" />
+    <node id="自然人類学" />
+    <node id="組織_(生物)" />
+    <node id="人間工学" />
+    <node id="偏見" />
+    <node id="比較法学" />
+    <node id="スポーツの国際総合競技大会" />
+    <node id="場所" />
+    <node id="一覧" />
+    <node id="メンタルヘルス" />
+    <node id="場所別の民族" />
+    <node id="行動科学" />
+    <node id="実解析" />
+    <node id="政治的右翼" />
+    <node id="教育施設" />
+    <node id="アメリカ合衆国史の時代区分" />
+    <node id="各国のカテゴリを集めたカテゴリ" />
+    <node id="紙製品" />
+    <node id="農学" />
+    <node id="死因" />
+    <node id="物理現象" />
+    <node id="カルチュラル・スタディーズ" />
+    <node id="政策" />
+    <node id="文化史" />
+    <node id="順番" />
+    <node id="人体" />
+    <node id="コンピュータのデータ" />
+    <node id="ゲルマン語派" />
+    <node id="各国の差別" />
+    <node id="パターン" />
+    <node id="未来" />
+    <node id="東京都" />
+    <node id="社会学" />
+    <node id="中東欧" />
+    <node id="政体" />
+    <node id="平等主義" />
+    <node id="カテゴリ関連" />
+    <node id="社会的経済" />
+    <node id="大陸別に分類したカテゴリ" />
+    <node id="病気" />
+    <node id="消費主義" />
+    <node id="社会集団" />
+    <node id="マスメディア" />
+    <node id="グラフィックデザイン" />
+    <node id="アジア史" />
+    <node id="市場" />
+    <node id="法学" />
+    <node id="貸与" />
+    <node id="諸言語" />
+    <node id="東アジア" />
+    <node id="広告" />
+    <node id="ITマネジメント" />
+    <node id="電気機器" />
+    <node id="中等教育" />
+    <node id="夏季オリンピック" />
+    <node id="超常現象" />
+    <node id="宗教" />
+    <node id="文化人類学" />
+    <node id="化学工学" />
+    <node id="アジアの政治" />
+    <node id="19世紀のヨーロッパ" />
+    <node id="形而上学" />
+    <node id="ロビー団体" />
+    <node id="イギリスの社会" />
+    <node id="技術革新" />
+    <node id="各国の地方自治" />
+    <node id="理論" />
+    <node id="大陸別の各世紀" />
+    <node id="地理学の分野" />
+    <node id="日本のナショナリズム" />
+    <node id="君主制" />
+    <node id="物理学の概念" />
+    <node id="地域" />
+    <node id="指標" />
+    <node id="原子" />
+    <node id="認知心理学" />
+    <node id="批判理論" />
+    <node id="顔" />
+    <node id="言語圏" />
+    <node id="民族問題" />
+    <node id="趣味" />
+    <node id="日本の地方自治の歴史" />
+    <node id="自然哲学" />
+    <node id="資本主義" />
+    <node id="哲学史" />
+    <node id="サブカルチャー" />
+    <node id="政府" />
+    <node id="文化地理学" />
+    <node id="国際関係史" />
+    <node id="不安" />
+    <node id="教育に関する組織" />
+    <node id="首都" />
+    <node id="健康科学" />
+    <node id="霊長類解剖学" />
+    <node id="日本の各地域ブロックのカテゴリ" />
+    <node id="経済システム" />
+    <node id="サンディカリスム" />
+    <node id="社会的不平等" />
+    <node id="基礎法学" />
+    <node id="カテゴリを集めたカテゴリ" />
+    <node id="各国の文化" />
+    <node id="数論" />
+    <node id="災害" />
+    <node id="暴力" />
+    <node id="建築意匠" />
+    <node id="地方自治" />
+    <node id="一般システム理論" />
+    <node id="論理学" />
+    <node id="社会史" />
+    <node id="システム" />
+    <node id="スポーツ競技大会" />
+    <node id="ドイツ語圏" />
+    <node id="ビジネス" />
+    <node id="西欧" />
+    <node id="自然地理学" />
+    <node id="社会学の分野" />
+    <node id="印刷物" />
+    <node id="大気" />
+    <node id="地球温暖化" />
+    <node id="アジアの環境" />
+    <node id="系統学" />
+    <node id="各国の公法" />
+    <node id="労働組合" />
+    <node id="運動_(物理学)" />
+    <node id="歴史" />
+    <node id="各国の都市" />
+    <node id="アジアの文化" />
+    <node id="太陽系" />
+    <node id="娯楽" />
+    <node id="批判的思考" />
+    <node id="各国の分野別の法" />
+    <node id="生物学" />
+    <node id="各国の経済" />
+    <node id="西洋文化" />
+    <node id="水素" />
+    <node id="社会科学の歴史" />
+    <node id="地方区分" />
+    <node id="東アジアの政治" />
+    <node id="倫理" />
+    <node id="倫理問題" />
+    <node id="軍事" />
+    <node id="大衆文化" />
+    <node id="ヨーロッパの社会" />
+    <node id="生活科学" />
+    <node id="ファッション" />
+    <node id="自己" />
+    <node id="分類" />
+    <node id="市民活動" />
+    <node id="経済開発" />
+    <node id="フードビジネス" />
+    <node id="解析学" />
+    <node id="社会倫理学" />
+    <node id="形態素" />
+    <node id="人の一生" />
+    <node id="アメリカ合衆国の経済_(1990年-)" />
+    <node id="政治問題" />
+    <node id="日本の政治" />
+    <node id="中世哲学" />
+    <node id="経済政策" />
+    <node id="民族学" />
+    <node id="科学論" />
+    <node id="品質" />
+    <node id="分野別の概念" />
+    <node id="経済" />
+    <node id="行政作用法" />
+    <node id="地形" />
+    <node id="アメリカ合衆国" />
+    <node id="1990年代" />
+    <node id="公害" />
+    <node id="文献学" />
+    <node id="反独感情" />
+    <node id="問題解決" />
+    <node id="日本の思想史" />
+    <node id="環境哲学" />
+    <node id="物質科学" />
+    <node id="素粒子" />
+    <node id="文" />
+    <node id="出版物" />
+    <node id="家庭" />
+    <node id="労働研究" />
+    <node id="人間行動学" />
+    <node id="自己の概念" />
+    <node id="物質" />
+    <node id="政治理論" />
+    <node id="統計" />
+    <node id="ムーブメント" />
+    <node id="スポーツ" />
+    <node id="大陸哲学" />
+    <node id="電気通信" />
+    <node id="社会" />
+    <node id="北アメリカの地理" />
+    <node id="レプトン" />
+    <node id="国際交流" />
+    <node id="認知科学" />
+    <node id="人文科学" />
+    <node id="家事" />
+    <node id="経営戦略論" />
+    <node id="安全" />
+    <node id="各世紀のアジア" />
+    <node id="数学" />
+    <node id="知識" />
+    <node id="速度" />
+    <node id="アジアの地方区分" />
+    <node id="経済思想" />
+    <node id="行政区画" />
+    <node id="固体" />
+    <node id="公共サービス" />
+    <node id="元素別の化合物分類" />
+    <node id="日本の法_(分野別)" />
+    <node id="社会運動史" />
+    <node id="神経" />
+    <node id="帝国主義" />
+    <node id="家電機器" />
+    <node id="凝縮系" />
+    <node id="科学と文化" />
+    <node id="労働運動" />
+    <node id="本州" />
+    <node id="映画" />
+    <node id="ヨーロッパの文化史" />
+    <node id="形式科学" />
+    <node id="倫理原則" />
+    <node id="質量" />
+    <node id="史学史" />
+    <node id="外交" />
+    <node id="プレートテクトニクス" />
+    <node id="北アメリカの社会" />
+    <node id="人体のしくみ" />
+    <node id="年齢" />
+    <node id="環境問題" />
+    <node id="インド・ヨーロッパ語族" />
+    <node id="20世紀のアジア" />
+    <node id="映像技術" />
+    <node id="サル目" />
+    <node id="大陸別の民族" />
+    <node id="用途別の建築物" />
+    <node id="計算機科学" />
+    <node id="自然史" />
+    <node id="美術" />
+    <node id="哺乳動物の解剖学" />
+    <node id="技能" />
+    <node id="価値論" />
+    <node id="行政区画の単位" />
+    <node id="宗教の認識論" />
+    <node id="日本の地域史" />
+    <node id="大陸別の地方区分" />
+    <node id="異常心理学" />
+    <node id="場所別に分類したカテゴリ" />
+    <node id="カルコゲン" />
+    <node id="性格" />
+    <node id="ヨーロッパの文化" />
+    <node id="用途別の道具" />
+    <node id="人格" />
+    <node id="産業別の企業" />
+    <node id="ファシズム" />
+    <node id="政治経済学" />
+    <node id="情報処理" />
+    <node id="海洋国家" />
+    <node id="形而上学的理論" />
+    <node id="教育の手法" />
+    <node id="気候" />
+    <node id="各国の経済史" />
+    <node id="比較" />
+    <node id="福祉" />
+    <node id="生命科学" />
+    <node id="20世紀" />
+    <node id="アジアの国" />
+    <node id="輸送" />
+    <node id="販売の手法" />
+    <node id="情報システム" />
+    <node id="分野別の哲学" />
+    <node id="インド・ヨーロッパ系諸民族" />
+    <node id="文学" />
+    <node id="地域別の法" />
+    <node id="イギリスのメディア" />
+    <node id="千年紀" />
+    <node id="ヨーロッパの民族" />
+    <node id="ネットワーク" />
+    <node id="著作権法" />
+    <node id="船" />
+    <node id="語源学" />
+    <node id="中世ヨーロッパ" />
+    <node id="日本の社会" />
+    <node id="古代哲学" />
+    <node id="環境マネジメント" />
+    <node id="文化" />
+    <node id="イデオロギー" />
+    <node id="知識源" />
+    <node id="アメリカ合衆国の経済史" />
+    <node id="データ" />
+    <node id="数学的問題解決" />
+    <node id="各国の憲法" />
+    <node id="ディアスポラ" />
+    <node id="科学史" />
+    <node id="技術" />
+    <node id="組織_(団体)" />
+    <node id="私法" />
+    <node id="日本のテーマ史" />
+    <node id="学校教育" />
+    <node id="農業" />
+    <node id="北アメリカの経済" />
+    <node id="数理科学" />
+    <node id="都市計画" />
+    <node id="世界の歴史" />
+    <node id="世紀別に分類したカテゴリ" />
+    <node id="歴史言語学" />
+    <node id="政治的スペクトル" />
+    <node id="無機化合物" />
+    <node id="精神医学" />
+    <node id="主観的体験" />
+    <node id="製造業" />
+    <node id="大陸別の経済" />
+    <node id="幾何学" />
+    <node id="公共政策" />
+    <node id="各国の環境" />
+    <node id="理学" />
+    <node id="国際経済" />
+    <node id="現代史" />
+    <node id="政治的左翼" />
+    <edge source="日本の人権" target="日本の政治" />
+    <edge source="日本の人権" target="各国の人権" />
+    <edge source="日本の人権" target="日本の憲法" />
+    <edge source="日本の人権" target="日本の社会" />
+    <edge source="脊椎動物" target="動物" />
+    <edge source="脊椎動物" target="脊索動物" />
+    <edge source="水環境" target="環境" />
+    <edge source="水環境" target="水" />
+    <edge source="分類学" target="博物学" />
+    <edge source="分類学" target="生物学" />
+    <edge source="分類学" target="生物学の分野" />
+    <edge source="分類学" target="分類" />
+    <edge source="分類学" target="方法論" />
+    <edge source="一覧のカテゴリ" target="カテゴリを集めたカテゴリ" />
+    <edge source="一覧のカテゴリ" target="一覧" />
+    <edge source="日本の憲法" target="日本の公法" />
+    <edge source="日本の憲法" target="日本の法_(分野別)" />
+    <edge source="日本の憲法" target="各国の憲法" />
+    <edge source="分野別の組織" target="組織_(団体)" />
+    <edge source="分野別の組織" target="分野別に分類したカテゴリ" />
+    <edge source="文法" target="文" />
+    <edge source="文法" target="言語学" />
+    <edge source="総合競技大会" target="スポーツ競技大会" />
+    <edge source="不公平" target="公平" />
+    <edge source="経済学の分野" target="経済学" />
+    <edge source="経済学の分野" target="学問の分野" />
+    <edge source="知的財産法" target="情報法" />
+    <edge source="知的財産法" target="私法" />
+    <edge source="知的財産法" target="分野別の法" />
+    <edge source="セキュリティ" target="治安" />
+    <edge source="セキュリティ" target="社会問題" />
+    <edge source="20世紀のヨーロッパ" target="各世紀のヨーロッパ" />
+    <edge source="20世紀のヨーロッパ" target="20世紀の世界史" />
+    <edge source="各国の政治" target="政治" />
+    <edge source="各国の政治" target="国別に分類したカテゴリ" />
+    <edge source="各国の政治" target="地域別の政治" />
+    <edge source="各国の政治" target="政治地理学" />
+    <edge source="各国の政治" target="各国の社会" />
+    <edge source="企業法" target="私法" />
+    <edge source="通信" target="情報技術" />
+    <edge source="通信" target="コミュニケーション" />
+    <edge source="哲学の概念" target="哲学" />
+    <edge source="哲学の概念" target="分野別の概念" />
+    <edge source="水素の化合物" target="元素別の化合物分類" />
+    <edge source="水素の化合物" target="水素" />
+    <edge source="熱" target="エネルギー" />
+    <edge source="工作物" target="施設" />
+    <edge source="工作物" target="工作" />
+    <edge source="工作物" target="都市計画" />
+    <edge source="行政学" target="公共経済学" />
+    <edge source="行政学" target="社会科学" />
+    <edge source="行政学" target="行政" />
+    <edge source="時間別に分類したカテゴリ" target="カテゴリを集めたカテゴリ_(分類指標別)" />
+    <edge source="時間別に分類したカテゴリ" target="時間" />
+    <edge source="心の哲学" target="心" />
+    <edge source="心の哲学" target="認知科学" />
+    <edge source="心の哲学" target="分野別の哲学" />
+    <edge source="地域別に分類したカテゴリ" target="地域" />
+    <edge source="地域別に分類したカテゴリ" target="場所別に分類したカテゴリ" />
+    <edge source="現存しない事物" target="過去" />
+    <edge source="現存しない事物" target="歴史" />
+    <edge source="ランキング" target="順番" />
+    <edge source="ランキング" target="指標" />
+    <edge source="開発経済学" target="経済開発" />
+    <edge source="開発経済学" target="開発学" />
+    <edge source="開発経済学" target="国際経済学" />
+    <edge source="東洋文化" target="文化圏" />
+    <edge source="東洋文化" target="地域別の文化" />
+    <edge source="地球物理学" target="地球科学" />
+    <edge source="地球物理学" target="物理学" />
+    <edge source="語彙論" target="言語学" />
+    <edge source="道具" target="技術" />
+    <edge source="道具" target="文化" />
+    <edge source="設計" target="科学的方法" />
+    <edge source="設計" target="技術" />
+    <edge source="設計" target="工学" />
+    <edge source="暦" target="天文学" />
+    <edge source="暦" target="標準" />
+    <edge source="暦" target="歴史" />
+    <edge source="暦" target="文化" />
+    <edge source="行政法" target="行政" />
+    <edge source="行政法" target="公法" />
+    <edge source="各国の地理" target="国別に分類したカテゴリ" />
+    <edge source="各国の地理" target="地域別の地理" />
+    <edge source="ギネス世界記録" target="世界記録" />
+    <edge source="ギネス世界記録" target="イギリスのメディア" />
+    <edge source="政治思想" target="政治" />
+    <edge source="政治思想" target="政治史" />
+    <edge source="政治思想" target="哲学の関連分野" />
+    <edge source="政治思想" target="思想" />
+    <edge source="神経科学" target="生物学の分野" />
+    <edge source="神経科学" target="神経システム" />
+    <edge source="初等数学" target="初等教育" />
+    <edge source="初等数学" target="数学" />
+    <edge source="初等数学" target="中等教育" />
+    <edge source="ユーラシア" target="大陸" />
+    <edge source="認識論の概念" target="哲学の概念" />
+    <edge source="認識論の概念" target="認識論" />
+    <edge source="品詞" target="語彙論" />
+    <edge source="品詞" target="文法" />
+    <edge source="品詞" target="形態素" />
+    <edge source="品詞" target="語" />
+    <edge source="20世紀の経済史" target="20世紀" />
+    <edge source="20世紀の経済史" target="経済史" />
+    <edge source="20世紀の経済史" target="20世紀の世界史" />
+    <edge source="動作" target="人間行動学" />
+    <edge source="量子力学" target="物理学" />
+    <edge source="量子力学" target="化学" />
+    <edge source="厚生経済学" target="福祉国家" />
+    <edge source="厚生経済学" target="ミクロ経済学" />
+    <edge source="厚生経済学" target="社会経済学" />
+    <edge source="カテゴリを集めたカテゴリ_(分類指標別)" target="カテゴリを集めたカテゴリ" />
+    <edge source="ドイツの政治" target="ドイツ" />
+    <edge source="ドイツの政治" target="ヨーロッパの政治" />
+    <edge source="ドイツの政治" target="各国の政治" />
+    <edge source="実数" target="数" />
+    <edge source="実数" target="複素数" />
+    <edge source="実数" target="実解析" />
+    <edge source="応用倫理学" target="倫理" />
+    <edge source="応用倫理学" target="人間行動学" />
+    <edge source="選挙" target="政治" />
+    <edge source="力学" target="物理学" />
+    <edge source="力学" target="運動_(物理学)" />
+    <edge source="力学" target="機械工学" />
+    <edge source="戦争" target="紛争" />
+    <edge source="戦争" target="国際関係" />
+    <edge source="戦争" target="暴力" />
+    <edge source="戦争" target="軍事" />
+    <edge source="戦争" target="軍事史" />
+    <edge source="レジャー" target="大衆文化" />
+    <edge source="レジャー" target="生活" />
+    <edge source="レジャー" target="人間行動学" />
+    <edge source="制御理論" target="理論" />
+    <edge source="制御理論" target="制御工学" />
+    <edge source="制御理論" target="サイバネティックス" />
+    <edge source="通信インフラ" target="インフラストラクチャー" />
+    <edge source="通信インフラ" target="通信" />
+    <edge source="政治概念" target="政治思想" />
+    <edge source="政治概念" target="社会概念" />
+    <edge source="ヨーロッパの地域" target="大陸別の地域" />
+    <edge source="ヨーロッパの地域" target="ヨーロッパの地理" />
+    <edge source="世論" target="政治情報" />
+    <edge source="世論" target="群集心理学" />
+    <edge source="世論" target="選挙" />
+    <edge source="福祉国家" target="経済政策" />
+    <edge source="福祉国家" target="福祉" />
+    <edge source="福祉国家" target="政治システム" />
+    <edge source="福祉国家" target="平等主義" />
+    <edge source="福祉国家" target="社会政策" />
+    <edge source="福祉国家" target="政治経済学" />
+    <edge source="福祉国家" target="自由主義" />
+    <edge source="福祉国家" target="社会主義" />
+    <edge source="地球史" target="地球" />
+    <edge source="地球史" target="テーマ史" />
+    <edge source="地球史" target="地史学" />
+    <edge source="学問分野の応用" target="学問の分野" />
+    <edge source="各国のナショナリズム" target="国別に分類したカテゴリ" />
+    <edge source="各国のナショナリズム" target="ナショナリズム" />
+    <edge source="文化施設" target="施設" />
+    <edge source="文化施設" target="文化" />
+    <edge source="脊索動物" target="動物" />
+    <edge source="コンピュータの利用" target="パーソナルコンピュータ" />
+    <edge source="コンピュータの利用" target="コンピュータ" />
+    <edge source="国際経済学" target="国際経済" />
+    <edge source="国際経済学" target="経済学の分野" />
+    <edge source="国際経済学" target="グローバル化の問題" />
+    <edge source="アメリカ合衆国の歴史_(現代)" target="現代史" />
+    <edge source="アメリカ合衆国の歴史_(現代)" target="アメリカ合衆国史の時代区分" />
+    <edge source="アメリカ合衆国の歴史_(現代)" target="アメリカ合衆国の歴史" />
+    <edge source="経済問題" target="問題" />
+    <edge source="経済問題" target="社会問題" />
+    <edge source="経済問題" target="経済" />
+    <edge source="経済問題" target="社会経済学" />
+    <edge source="解剖学" target="生物学の分野" />
+    <edge source="解剖学" target="基礎医学" />
+    <edge source="解剖学" target="形態学_(生物学)" />
+    <edge source="解剖学" target="動物学" />
+    <edge source="流通" target="商業" />
+    <edge source="遺伝学" target="生物学" />
+    <edge source="遺伝学" target="生物学の分野" />
+    <edge source="遺伝学" target="系統学" />
+    <edge source="暦法" target="天文学史" />
+    <edge source="暦法" target="文化人類学" />
+    <edge source="暦法" target="暦" />
+    <edge source="分野別の法" target="法" />
+    <edge source="分野別の法" target="分野別に分類したカテゴリ" />
+    <edge source="大日本帝国" target="帝国主義" />
+    <edge source="大日本帝国" target="帝国" />
+    <edge source="大日本帝国" target="日本のナショナリズム" />
+    <edge source="大日本帝国" target="20世紀のアジア" />
+    <edge source="大日本帝国" target="19世紀のアジア" />
+    <edge source="大日本帝国" target="日本の時代区分" />
+    <edge source="情報通信業" target="産業別の企業" />
+    <edge source="情報通信業" target="情報" />
+    <edge source="情報通信業" target="通信" />
+    <edge source="情報通信業" target="産業" />
+    <edge source="情報通信業" target="情報技術" />
+    <edge source="組織学" target="解剖学" />
+    <edge source="ゲーム" target="娯楽" />
+    <edge source="ゲーム" target="レジャー" />
+    <edge source="ゲーム" target="遊び" />
+    <edge source="民族差別" target="人間の移動" />
+    <edge source="民族差別" target="民族問題" />
+    <edge source="民族差別" target="人種差別" />
+    <edge source="1千年紀" target="千年紀" />
+    <edge source="1千年紀" target="年表" />
+    <edge source="原子物理学" target="物理学" />
+    <edge source="原子物理学" target="原子" />
+    <edge source="物質の相" target="物理化学" />
+    <edge source="物質の相" target="物質" />
+    <edge source="形而上学の概念" target="哲学の概念" />
+    <edge source="形而上学の概念" target="形而上学" />
+    <edge source="人類学" target="人間科学" />
+    <edge source="人類学" target="霊長類学" />
+    <edge source="日本のカテゴリを集めたカテゴリ" target="日本" />
+    <edge source="日本のカテゴリを集めたカテゴリ" target="各国のカテゴリを集めたカテゴリ" />
+    <edge source="イギリス" target="西欧" />
+    <edge source="イギリス" target="ヨーロッパの国" />
+    <edge source="イギリス" target="島国" />
+    <edge source="ミクロ経済学" target="経済学" />
+    <edge source="感覚器" target="器官" />
+    <edge source="感覚器" target="感覚" />
+    <edge source="自然法論" target="法思想史" />
+    <edge source="大陸別の国" target="大陸別の地理" />
+    <edge source="大陸別の国" target="国" />
+    <edge source="大陸別の国" target="大陸別に分類したカテゴリ" />
+    <edge source="反ファシズム" target="ファシズム" />
+    <edge source="反ファシズム" target="反独感情" />
+    <edge source="反ファシズム" target="政治イデオロギー" />
+    <edge source="反ファシズム" target="政治運動" />
+    <edge source="地史学" target="地質学" />
+    <edge source="ドイツの国際関係" target="各国の国際関係" />
+    <edge source="ドイツの国際関係" target="ドイツの政府" />
+    <edge source="ドイツの国際関係" target="ドイツの政治" />
+    <edge source="社会経済学" target="経済学の分野" />
+    <edge source="社会経済学" target="社会的経済" />
+    <edge source="社会経済学" target="社会学の分野" />
+    <edge source="心理学の分野" target="心理学" />
+    <edge source="心理学の分野" target="学問の分野" />
+    <edge source="有胎盤類" target="哺乳類" />
+    <edge source="土木工学" target="工学の分野" />
+    <edge source="土木工学" target="土木" />
+    <edge source="デジタル技術" target="分野別の技術" />
+    <edge source="デジタル技術" target="電子工学" />
+    <edge source="かつて存在した地名" target="歴史地理学" />
+    <edge source="かつて存在した地名" target="現存しない事物" />
+    <edge source="かつて存在した地名" target="地名" />
+    <edge source="メタ哲学" target="分野別の哲学" />
+    <edge source="権威主義" target="社会理論" />
+    <edge source="権威主義" target="性格" />
+    <edge source="権威主義" target="政治イデオロギー" />
+    <edge source="権威主義" target="政治文化" />
+    <edge source="権威主義" target="社会心理学" />
+    <edge source="権威主義" target="ファシズム" />
+    <edge source="気体" target="物質の相" />
+    <edge source="気体" target="統計力学" />
+    <edge source="気体" target="熱力学" />
+    <edge source="哲学的伝統" target="メタ哲学" />
+    <edge source="哲学的伝統" target="哲学の学派" />
+    <edge source="哲学的伝統" target="哲学の理論" />
+    <edge source="国別に分類したカテゴリ" target="国" />
+    <edge source="国別に分類したカテゴリ" target="場所別に分類したカテゴリ" />
+    <edge source="環境思想" target="環境" />
+    <edge source="環境思想" target="環境学" />
+    <edge source="環境思想" target="倫理" />
+    <edge source="環境思想" target="思想" />
+    <edge source="伝承" target="民俗文化" />
+    <edge source="伝承" target="伝統" />
+    <edge source="建築物" target="分野別作品" />
+    <edge source="建築物" target="工作物" />
+    <edge source="建築物" target="建築" />
+    <edge source="建築物" target="不動産" />
+    <edge source="建築物" target="構造物" />
+    <edge source="人体の部位" target="マクロ解剖学" />
+    <edge source="人体の部位" target="人体" />
+    <edge source="身体装飾" target="表現技術" />
+    <edge source="身体装飾" target="ファッション" />
+    <edge source="身体装飾" target="美" />
+    <edge source="身体装飾" target="装飾" />
+    <edge source="身体装飾" target="容姿" />
+    <edge source="身体装飾" target="人体" />
+    <edge source="植民主義" target="20世紀" />
+    <edge source="植民主義" target="帝国主義" />
+    <edge source="植民主義" target="19世紀" />
+    <edge source="植民主義" target="歴史の分野" />
+    <edge source="力_(自然科学)" target="加速度" />
+    <edge source="力_(自然科学)" target="物理量" />
+    <edge source="力_(自然科学)" target="力学" />
+    <edge source="力_(自然科学)" target="質量" />
+    <edge source="歯学" target="健康科学" />
+    <edge source="歯学" target="生命科学" />
+    <edge source="歯学" target="自然科学" />
+    <edge source="歯学" target="医療" />
+    <edge source="地域別の政治" target="地域別に分類したカテゴリ" />
+    <edge source="地域別の政治" target="政治地理学" />
+    <edge source="地域別の政治" target="政治" />
+    <edge source="ネットワーク技術" target="分野別の技術" />
+    <edge source="ネットワーク技術" target="ネットワーク" />
+    <edge source="ネットワーク技術" target="グラフ理論" />
+    <edge source="複素数" target="複素解析" />
+    <edge source="複素数" target="数" />
+    <edge source="民族集団" target="民族学" />
+    <edge source="民族集団" target="民族" />
+    <edge source="民族集団" target="文化人類学" />
+    <edge source="民族集団" target="人口" />
+    <edge source="アジアの言語" target="地域別の言語" />
+    <edge source="アジアの言語" target="アジアの文化" />
+    <edge source="歴史学" target="歴史" />
+    <edge source="歴史学" target="人文科学" />
+    <edge source="分野別の技術" target="技術" />
+    <edge source="分野別の技術" target="分野別に分類したカテゴリ" />
+    <edge source="ヨーロッパ" target="ユーラシア" />
+    <edge source="ヨーロッパ" target="大陸" />
+    <edge source="第三の位置" target="政治的スペクトル" />
+    <edge source="第三の位置" target="政治理論" />
+    <edge source="計算機工学" target="工学の分野" />
+    <edge source="計算機工学" target="電子工学" />
+    <edge source="計算機工学" target="計算機科学" />
+    <edge source="物理量" target="物理学" />
+    <edge source="物理量" target="指標" />
+    <edge source="19世紀" target="近代史" />
+    <edge source="人的災害" target="災害" />
+    <edge source="人的災害" target="人間" />
+    <edge source="物質の性質" target="材料工学" />
+    <edge source="物質の性質" target="物質" />
+    <edge source="分析" target="調査" />
+    <edge source="分析" target="応用科学" />
+    <edge source="分析" target="批判的思考" />
+    <edge source="分析" target="問題解決" />
+    <edge source="分析" target="評価" />
+    <edge source="分析" target="哲学的方法論" />
+    <edge source="文化圏" target="文化地理学" />
+    <edge source="文化圏" target="文化人類学" />
+    <edge source="文化圏" target="地域別の文化" />
+    <edge source="日本の地名" target="日本の地理" />
+    <edge source="日本の地名" target="日本の地域" />
+    <edge source="日本の地名" target="地名" />
+    <edge source="科学的方法" target="形式的認識論" />
+    <edge source="科学的方法" target="科学論" />
+    <edge source="科学的方法" target="科学" />
+    <edge source="科学的方法" target="問題解決" />
+    <edge source="科学的方法" target="方法論" />
+    <edge source="アメリカ合衆国の経済" target="北アメリカの経済" />
+    <edge source="アメリカ合衆国の経済" target="各国の経済" />
+    <edge source="アメリカ合衆国の経済" target="アメリカ合衆国の社会" />
+    <edge source="工学" target="技術" />
+    <edge source="工学" target="応用科学" />
+    <edge source="日本の地理" target="日本" />
+    <edge source="日本の地理" target="アジアの地理" />
+    <edge source="日本の地理" target="各国の地理" />
+    <edge source="憎悪" target="感情" />
+    <edge source="憎悪" target="倫理問題" />
+    <edge source="風俗" target="文化" />
+    <edge source="風俗" target="習俗" />
+    <edge source="デザイン" target="人間工学" />
+    <edge source="デザイン" target="美術のジャンル" />
+    <edge source="日本の地域" target="日本の地理" />
+    <edge source="日本の地域" target="各国の地域" />
+    <edge source="個人主義" target="社会理論" />
+    <edge source="個人主義" target="自己" />
+    <edge source="個人主義" target="政治理論" />
+    <edge source="個人主義" target="政治文化" />
+    <edge source="安全保障" target="安全" />
+    <edge source="安全保障" target="セキュリティ" />
+    <edge source="安全保障" target="公共政策" />
+    <edge source="社会言語学" target="社会学の分野" />
+    <edge source="社会言語学" target="言語学" />
+    <edge source="大陸別の地理" target="地域別の地理" />
+    <edge source="大陸別の地理" target="大陸別に分類したカテゴリ" />
+    <edge source="原理" target="形而上学の概念" />
+    <edge source="領有権問題" target="戦争" />
+    <edge source="領有権問題" target="主権" />
+    <edge source="領有権問題" target="国際関係" />
+    <edge source="領有権問題" target="領土" />
+    <edge source="領有権問題" target="政治問題" />
+    <edge source="環境学" target="環境" />
+    <edge source="環境学" target="学際領域" />
+    <edge source="環境学" target="日本の環境" />
+    <edge source="環境学" target="自然科学" />
+    <edge source="大陸別の環境" target="場所別の環境" />
+    <edge source="大陸別の環境" target="大陸別に分類したカテゴリ" />
+    <edge source="素粒子物理学" target="物理学" />
+    <edge source="社会制度" target="社会システム" />
+    <edge source="社会制度" target="社会学" />
+    <edge source="物理システム" target="システム" />
+    <edge source="物理システム" target="物理学" />
+    <edge source="習俗" target="社会制度" />
+    <edge source="習俗" target="伝承" />
+    <edge source="習俗" target="文化人類学" />
+    <edge source="中世ヨーロッパの文化" target="文化史" />
+    <edge source="中世ヨーロッパの文化" target="ヨーロッパの文化史" />
+    <edge source="中世ヨーロッパの文化" target="中世ヨーロッパ" />
+    <edge source="地理学" target="地理" />
+    <edge source="地理学" target="人文科学" />
+    <edge source="地理学" target="社会科学" />
+    <edge source="民族別の人物" target="人物" />
+    <edge source="民族別の人物" target="民族" />
+    <edge source="人事労務管理" target="労働" />
+    <edge source="人事労務管理" target="企業統治" />
+    <edge source="インタフェース" target="分野別の技術" />
+    <edge source="サービス業" target="産業" />
+    <edge source="大陸別の歴史" target="歴史" />
+    <edge source="大陸別の歴史" target="大陸別に分類したカテゴリ" />
+    <edge source="西ゲルマン語群" target="ゲルマン語派" />
+    <edge source="筆記媒体" target="筆記" />
+    <edge source="筆記媒体" target="文房具" />
+    <edge source="筆記媒体" target="媒体" />
+    <edge source="感情" target="心" />
+    <edge source="感情" target="精神" />
+    <edge source="感情" target="認知科学" />
+    <edge source="感情" target="主観的体験" />
+    <edge source="感情" target="人間行動学" />
+    <edge source="感情" target="大脳辺縁系" />
+    <edge source="感情" target="心理学の概念" />
+    <edge source="人工知能" target="知能" />
+    <edge source="人工知能" target="認知科学" />
+    <edge source="人工知能" target="アルゴリズム" />
+    <edge source="人工知能" target="コンピュータの利用" />
+    <edge source="人工知能" target="未来学" />
+    <edge source="人工知能" target="計算機科学" />
+    <edge source="人工知能" target="サイバネティックス" />
+    <edge source="人工知能" target="神経科学" />
+    <edge source="国境" target="領有権問題" />
+    <edge source="国境" target="政治地理学" />
+    <edge source="国境" target="輸送" />
+    <edge source="政治学" target="社会科学" />
+    <edge source="政治学" target="政治" />
+    <edge source="日本の人種・民族問題" target="民族問題" />
+    <edge source="日本の人種・民族問題" target="民族差別" />
+    <edge source="日本の人種・民族問題" target="各国のレイシズム" />
+    <edge source="日本の人種・民族問題" target="日本の差別" />
+    <edge source="日本の地方自治" target="日本の政治" />
+    <edge source="日本の地方自治" target="日本の行政" />
+    <edge source="日本の地方自治" target="各国の地方自治" />
+    <edge source="情報" target="文化" />
+    <edge source="情報" target="知識" />
+    <edge source="イギリスの文化" target="イギリス" />
+    <edge source="イギリスの文化" target="各国の文化" />
+    <edge source="イギリスの文化" target="ヨーロッパの文化" />
+    <edge source="社会思想" target="社会科学" />
+    <edge source="社会思想" target="社会" />
+    <edge source="社会思想" target="哲学の関連分野" />
+    <edge source="社会思想" target="思想" />
+    <edge source="機械工学" target="工学の分野" />
+    <edge source="機械工学" target="製造業" />
+    <edge source="機械工学" target="機械" />
+    <edge source="スポーツに関するイベント" target="スポーツの文化" />
+    <edge source="スポーツに関するイベント" target="テーマ別のイベント" />
+    <edge source="外交政策" target="公共政策" />
+    <edge source="外交政策" target="外交" />
+    <edge source="初等幾何学" target="幾何学" />
+    <edge source="初等幾何学" target="図" />
+    <edge source="初等幾何学" target="初等数学" />
+    <edge source="霊長類学" target="サル目" />
+    <edge source="霊長類学" target="自然人類学" />
+    <edge source="霊長類学" target="動物学" />
+    <edge source="宇宙" target="天文学" />
+    <edge source="宇宙" target="自然" />
+    <edge source="宇宙" target="現実" />
+    <edge source="教育段階" target="教育" />
+    <edge source="教育段階" target="学生" />
+    <edge source="アメリカ" target="大陸" />
+    <edge source="ビデオ" target="テレビ" />
+    <edge source="ビデオ" target="AV機器" />
+    <edge source="ビデオ" target="媒体" />
+    <edge source="日用品" target="道具" />
+    <edge source="日用品" target="家事" />
+    <edge source="日用品" target="生活" />
+    <edge source="創造性" target="思考" />
+    <edge source="創造性" target="人間行動学" />
+    <edge source="言葉の文化" target="テーマ別の文化" />
+    <edge source="言葉の文化" target="言語" />
+    <edge source="グローバル化の問題" target="グローバリゼーション" />
+    <edge source="グローバル化の問題" target="社会問題" />
+    <edge source="各国のレイシズム" target="国別に分類したカテゴリ" />
+    <edge source="各国のレイシズム" target="各国の差別" />
+    <edge source="各国のレイシズム" target="人種差別" />
+    <edge source="寡頭制" target="政治システム" />
+    <edge source="寡頭制" target="権威主義" />
+    <edge source="寡頭制" target="社会的不平等" />
+    <edge source="生物の文化" target="テーマ別の文化" />
+    <edge source="生物の文化" target="生物" />
+    <edge source="インフラストラクチャー" target="技術史" />
+    <edge source="インフラストラクチャー" target="物理システム" />
+    <edge source="インフラストラクチャー" target="土木工学" />
+    <edge source="インフラストラクチャー" target="開発経済学" />
+    <edge source="ヨーロッパ史" target="大陸別の歴史" />
+    <edge source="ヨーロッパ史" target="ヨーロッパ" />
+    <edge source="代数学" target="数学" />
+    <edge source="電子工学" target="電子" />
+    <edge source="電子工学" target="電気工学" />
+    <edge source="学際領域" target="学問の分野" />
+    <edge source="学際領域" target="ポストモダニズム" />
+    <edge source="色" target="視覚" />
+    <edge source="色" target="光学" />
+    <edge source="統計学" target="数理科学" />
+    <edge source="統計学" target="応用数学" />
+    <edge source="コンテスト" target="イベント" />
+    <edge source="地域別の地理" target="地域別に分類したカテゴリ" />
+    <edge source="地域別の地理" target="地理学の分野" />
+    <edge source="図書館情報学" target="図書館" />
+    <edge source="図書館情報学" target="情報学" />
+    <edge source="国際スポーツ競技大会" target="国際競技大会" />
+    <edge source="国際スポーツ競技大会" target="スポーツ競技大会" />
+    <edge source="社会主義" target="社会思想" />
+    <edge source="社会主義" target="政治的スペクトル" />
+    <edge source="社会主義" target="経済思想の歴史" />
+    <edge source="社会主義" target="社会運動" />
+    <edge source="社会主義" target="経済システム" />
+    <edge source="社会主義" target="政治運動" />
+    <edge source="各国の地域史" target="各国の歴史" />
+    <edge source="各国の地域史" target="各国の地域" />
+    <edge source="心理学の概念" target="心理学" />
+    <edge source="心理学の概念" target="分野別の概念" />
+    <edge source="コンピュータアーキテクチャ" target="デジタル技術" />
+    <edge source="コンピュータアーキテクチャ" target="計算機工学" />
+    <edge source="コンピュータアーキテクチャ" target="コンピュータの仕組み" />
+    <edge source="コンピュータアーキテクチャ" target="コンピュータ" />
+    <edge source="コンピュータアーキテクチャ" target="設計" />
+    <edge source="人権問題" target="人権" />
+    <edge source="人権問題" target="倫理問題" />
+    <edge source="人権問題" target="社会問題" />
+    <edge source="憲法" target="公法" />
+    <edge source="地質学" target="地球科学" />
+    <edge source="アメリカ合衆国の歴史" target="アメリカ合衆国" />
+    <edge source="アメリカ合衆国の歴史" target="各国の歴史" />
+    <edge source="アメリカ合衆国の歴史" target="北アメリカ史" />
+    <edge source="学派" target="社会システム" />
+    <edge source="学派" target="思考" />
+    <edge source="酸化物" target="カルコゲン化物" />
+    <edge source="酸化物" target="酸素の化合物" />
+    <edge source="酸化物" target="無機化合物" />
+    <edge source="公法" target="分野別の法" />
+    <edge source="原子核物理学" target="物理学" />
+    <edge source="原子核物理学" target="原子物理学" />
+    <edge source="原子核物理学" target="量子力学" />
+    <edge source="原子核物理学" target="原子" />
+    <edge source="開発" target="環境" />
+    <edge source="開発" target="経済政策" />
+    <edge source="開発" target="社会経済学" />
+    <edge source="周期現象" target="現象" />
+    <edge source="周期現象" target="時間" />
+    <edge source="生物学の分野" target="生物学" />
+    <edge source="生物学の分野" target="学問の分野" />
+    <edge source="自然保護" target="環境マネジメント" />
+    <edge source="自然保護" target="自然" />
+    <edge source="数理経済学" target="経済学の分野" />
+    <edge source="数理経済学" target="応用数学" />
+    <edge source="起源・発祥" target="認識論" />
+    <edge source="起源・発祥" target="歴史学" />
+    <edge source="政治史" target="テーマ史" />
+    <edge source="政治史" target="政治" />
+    <edge source="政治史" target="歴史の分野" />
+    <edge source="政治史" target="政治学" />
+    <edge source="各世紀のヨーロッパ" target="大陸別の各世紀" />
+    <edge source="各世紀のヨーロッパ" target="ヨーロッパ史_(時代別)" />
+    <edge source="政党" target="政治団体" />
+    <edge source="グラフ理論" target="離散数学" />
+    <edge source="グラフ理論" target="理論" />
+    <edge source="グラフ理論" target="組合せ論" />
+    <edge source="名前" target="固有名詞学" />
+    <edge source="名前" target="言葉の文化" />
+    <edge source="名前" target="名詞" />
+    <edge source="名前" target="情報" />
+    <edge source="マクロ経済学" target="経済学" />
+    <edge source="社会教育" target="教育の分野" />
+    <edge source="学生" target="学校教育" />
+    <edge source="学生" target="学問" />
+    <edge source="医療" target="分野別の技術" />
+    <edge source="医療" target="健康" />
+    <edge source="医療" target="社会" />
+    <edge source="医療" target="サービス業" />
+    <edge source="医療" target="人体" />
+    <edge source="第一級行政区画" target="地方区分" />
+    <edge source="第一級行政区画" target="行政区画" />
+    <edge source="コンピュータの形態" target="ハードウェア" />
+    <edge source="コンピュータの形態" target="コンピュータアーキテクチャ" />
+    <edge source="コンピュータの形態" target="コンピュータシステム" />
+    <edge source="ドイツの言語" target="ドイツの文化" />
+    <edge source="ドイツの言語" target="ヨーロッパの言語" />
+    <edge source="ドイツの言語" target="各国の言語" />
+    <edge source="ドイツの言語" target="ドイツの社会" />
+    <edge source="社会法" target="社会システム" />
+    <edge source="社会法" target="分野別の法" />
+    <edge source="社会法" target="社会政策" />
+    <edge source="総記" target="主要カテゴリ" />
+    <edge source="アメリカ合衆国のテーマ史" target="各国のテーマ史" />
+    <edge source="アメリカ合衆国のテーマ史" target="アメリカ合衆国の歴史" />
+    <edge source="動物解剖学" target="解剖学" />
+    <edge source="動物解剖学" target="獣医学" />
+    <edge source="動物解剖学" target="動物" />
+    <edge source="動物解剖学" target="動物学" />
+    <edge source="コミュニケーション" target="情報" />
+    <edge source="コミュニケーション" target="社会心理学" />
+    <edge source="コミュニケーション" target="人間行動学" />
+    <edge source="倫理学の理論" target="倫理" />
+    <edge source="倫理学の理論" target="哲学の理論" />
+    <edge source="科学の認識論" target="認識論" />
+    <edge source="科学の認識論" target="科学哲学" />
+    <edge source="図書館" target="公共サービス" />
+    <edge source="図書館" target="書物" />
+    <edge source="図書館" target="貸与" />
+    <edge source="図書館" target="社会教育施設" />
+    <edge source="図書館" target="情報社会" />
+    <edge source="図書館" target="用途別の建築物" />
+    <edge source="図書館" target="文化施設" />
+    <edge source="図書館" target="教育機関" />
+    <edge source="哺乳類" target="脊椎動物" />
+    <edge source="公衆衛生" target="健康科学" />
+    <edge source="公衆衛生" target="健康政策" />
+    <edge source="公衆衛生" target="医療経済学" />
+    <edge source="公衆衛生" target="医療" />
+    <edge source="地域別の哲学" target="地域別に分類したカテゴリ" />
+    <edge source="地域別の哲学" target="哲学" />
+    <edge source="日本の行政" target="日本の政治" />
+    <edge source="日本の行政" target="各国の行政" />
+    <edge source="大脳辺縁系" target="大脳" />
+    <edge source="社会的少数者" target="アイデンティティ・ポリティクス" />
+    <edge source="社会的少数者" target="差別" />
+    <edge source="社会的少数者" target="社会集団" />
+    <edge source="時間" target="自然" />
+    <edge source="時間" target="物理量" />
+    <edge source="時間" target="形而上学の概念" />
+    <edge source="施設" target="インフラストラクチャー" />
+    <edge source="施設" target="用途別の建築物" />
+    <edge source="施設" target="場所" />
+    <edge source="有理数" target="数" />
+    <edge source="有理数" target="代数的数" />
+    <edge source="有理数" target="実数" />
+    <edge source="非営利組織" target="社会制度" />
+    <edge source="非営利組織" target="コミュニティ" />
+    <edge source="非営利組織" target="組織_(団体)" />
+    <edge source="非営利組織" target="社会的経済" />
+    <edge source="力学系" target="システム" />
+    <edge source="力学系" target="数学" />
+    <edge source="力学系" target="力学" />
+    <edge source="臨床医学" target="医療" />
+    <edge source="臨床医学" target="医学" />
+    <edge source="臨床医学" target="歯学" />
+    <edge source="神経症性・ストレス関連及び身体表現性障害" target="精神障害" />
+    <edge source="20世紀の世界史" target="20世紀" />
+    <edge source="20世紀の世界史" target="世界の歴史" />
+    <edge source="哲学の理論" target="哲学" />
+    <edge source="哲学の理論" target="理論" />
+    <edge source="19世紀のアジア" target="各世紀のアジア" />
+    <edge source="19世紀のアジア" target="19世紀" />
+    <edge source="デジタル信号処理" target="信号処理" />
+    <edge source="デジタル信号処理" target="デジタルシステム" />
+    <edge source="デジタル信号処理" target="アルゴリズム" />
+    <edge source="社会システム" target="システム" />
+    <edge source="社会システム" target="社会" />
+    <edge source="装飾" target="デザイン" />
+    <edge source="装飾" target="装飾美術" />
+    <edge source="装飾" target="インテリアデザイン" />
+    <edge source="装飾" target="風俗" />
+    <edge source="生理学" target="生物学の分野" />
+    <edge source="生理学" target="基礎医学" />
+    <edge source="恐怖症" target="憎悪" />
+    <edge source="恐怖症" target="恐怖" />
+    <edge source="恐怖症" target="不安障害" />
+    <edge source="人間関係" target="人間" />
+    <edge source="人間関係" target="社会心理学" />
+    <edge source="人間関係" target="コミュニケーション" />
+    <edge source="無線" target="電磁波" />
+    <edge source="無線" target="電気通信" />
+    <edge source="記憶" target="大脳辺縁系" />
+    <edge source="記憶" target="過去" />
+    <edge source="記憶" target="情報処理" />
+    <edge source="記憶" target="知識源" />
+    <edge source="記憶" target="認知科学" />
+    <edge source="光学" target="物理学" />
+    <edge source="数理的手法と定量的手法(経済学)" target="評価方法" />
+    <edge source="数理的手法と定量的手法(経済学)" target="経済学" />
+    <edge source="青年" target="年齢" />
+    <edge source="国家" target="政治" />
+    <edge source="国家" target="組織_(団体)" />
+    <edge source="国家" target="国" />
+    <edge source="ドイツの政府" target="各国の政府" />
+    <edge source="ドイツの政府" target="ドイツの政治" />
+    <edge source="社会問題" target="社会制度" />
+    <edge source="社会問題" target="社会変動" />
+    <edge source="社会問題" target="問題" />
+    <edge source="社会問題" target="腐敗" />
+    <edge source="社会問題" target="社会倫理学" />
+    <edge source="加工" target="分野別の技術" />
+    <edge source="加工" target="工学" />
+    <edge source="勝利" target="動機づけ" />
+    <edge source="勝利" target="紛争" />
+    <edge source="勝利" target="競技会" />
+    <edge source="自然" target="主要カテゴリ" />
+    <edge source="参考" target="書誌学" />
+    <edge source="参考" target="情報" />
+    <edge source="参考" target="知識" />
+    <edge source="参考" target="資料学" />
+    <edge source="参考" target="図書館情報学" />
+    <edge source="臨床心理学" target="メンタルヘルス" />
+    <edge source="臨床心理学" target="臨床医学" />
+    <edge source="臨床心理学" target="心理学の分野" />
+    <edge source="宇宙論・宇宙物理学" target="起源・発祥" />
+    <edge source="宇宙論・宇宙物理学" target="宇宙" />
+    <edge source="宇宙論・宇宙物理学" target="天文学" />
+    <edge source="宇宙論・宇宙物理学" target="物理学" />
+    <edge source="宇宙論・宇宙物理学" target="自然科学" />
+    <edge source="宇宙論・宇宙物理学" target="自然哲学" />
+    <edge source="博物学" target="自然史" />
+    <edge source="博物学" target="科学史" />
+    <edge source="移動現象" target="化学工学" />
+    <edge source="移動現象" target="非平衡熱力学" />
+    <edge source="移動現象" target="物理化学の現象" />
+    <edge source="磁気" target="電磁気学" />
+    <edge source="代数的数" target="代数的整数論" />
+    <edge source="代数的数" target="複素数" />
+    <edge source="代数的数" target="数" />
+    <edge source="服飾" target="デザイン" />
+    <edge source="服飾" target="文化" />
+    <edge source="服飾" target="身体装飾" />
+    <edge source="服飾" target="生活" />
+    <edge source="動機づけ" target="感情" />
+    <edge source="動機づけ" target="人間行動学" />
+    <edge source="北アメリカの地方区分" target="北アメリカ" />
+    <edge source="北アメリカの地方区分" target="大陸別の地方区分" />
+    <edge source="世界記録" target="ランキング" />
+    <edge source="世界記録" target="競技会" />
+    <edge source="頭頸部" target="人体の部位" />
+    <edge source="頭頸部" target="マクロ解剖学" />
+    <edge source="軍事史" target="軍事学" />
+    <edge source="軍事史" target="テーマ史" />
+    <edge source="軍事史" target="歴史の分野" />
+    <edge source="軍事史" target="軍事" />
+    <edge source="大陸法系" target="法系" />
+    <edge source="政治システム" target="社会システム" />
+    <edge source="政治システム" target="国家" />
+    <edge source="政治システム" target="政治" />
+    <edge source="テーマ別のメディア" target="マスメディア" />
+    <edge source="テーマ別のメディア" target="テーマ別に分類したカテゴリ" />
+    <edge source="整数" target="数" />
+    <edge source="整数" target="有理数" />
+    <edge source="整数" target="実数" />
+    <edge source="文書" target="記録" />
+    <edge source="文書" target="資料学" />
+    <edge source="文書" target="情報" />
+    <edge source="文書" target="通信" />
+    <edge source="文書" target="文" />
+    <edge source="アメリカ大陸史" target="大陸別の歴史" />
+    <edge source="アメリカ大陸史" target="アメリカ" />
+    <edge source="電磁波" target="電気" />
+    <edge source="電磁波" target="振動と波動" />
+    <edge source="電磁波" target="移動現象" />
+    <edge source="電磁波" target="磁気" />
+    <edge source="電磁波" target="電磁気学" />
+    <edge source="電磁波" target="物理現象" />
+    <edge source="国際競技大会" target="国際交流" />
+    <edge source="国際競技大会" target="競技会" />
+    <edge source="水" target="酸化物" />
+    <edge source="水" target="自然" />
+    <edge source="水" target="資源" />
+    <edge source="水" target="水素の化合物" />
+    <edge source="機器" target="技術" />
+    <edge source="機器" target="道具" />
+    <edge source="機器" target="製品" />
+    <edge source="材料工学" target="工学の分野" />
+    <edge source="材料工学" target="材料" />
+    <edge source="材料工学" target="物質科学" />
+    <edge source="材料工学" target="機械工作" />
+    <edge source="法思想史" target="法学史" />
+    <edge source="法思想史" target="思想史" />
+    <edge source="離散数学" target="数学" />
+    <edge source="離散数学" target="整数" />
+    <edge source="神経解剖学" target="解剖学" />
+    <edge source="神経解剖学" target="神経科学" />
+    <edge source="神経解剖学" target="神経" />
+    <edge source="神経解剖学" target="末梢神経系" />
+    <edge source="地域別の言語" target="諸言語" />
+    <edge source="地域別の言語" target="地域別の文化" />
+    <edge source="人間" target="主要カテゴリ" />
+    <edge source="スポーツの文化" target="テーマ別の文化" />
+    <edge source="スポーツの文化" target="スポーツ" />
+    <edge source="建設" target="分野別の技術" />
+    <edge source="アイデンティティ" target="哲学的論理学" />
+    <edge source="アイデンティティ" target="自己の概念" />
+    <edge source="社会教育施設" target="教育施設" />
+    <edge source="社会教育施設" target="社会教育" />
+    <edge source="文房具" target="用途別の道具" />
+    <edge source="文房具" target="日用品" />
+    <edge source="都市" target="社会" />
+    <edge source="都市" target="地理" />
+    <edge source="関東地方" target="本州" />
+    <edge source="関東地方" target="日本の各地域ブロックのカテゴリ" />
+    <edge source="人間とコンピュータの相互作用" target="神経科学" />
+    <edge source="人間とコンピュータの相互作用" target="計算機科学" />
+    <edge source="人間とコンピュータの相互作用" target="コンピュータ" />
+    <edge source="人間とコンピュータの相互作用" target="コミュニケーション" />
+    <edge source="物理学" target="自然科学" />
+    <edge source="物理学" target="理学" />
+    <edge source="物理学" target="科学" />
+    <edge source="アメリカ合衆国の社会" target="北アメリカの社会" />
+    <edge source="アメリカ合衆国の社会" target="アメリカ合衆国" />
+    <edge source="アメリカ合衆国の社会" target="各国の社会" />
+    <edge source="教育心理学" target="心理学の分野" />
+    <edge source="教育心理学" target="教育学" />
+    <edge source="造船" target="船" />
+    <edge source="造船" target="製造" />
+    <edge source="決定理論" target="意思決定" />
+    <edge source="決定理論" target="理論" />
+    <edge source="決定理論" target="制御理論" />
+    <edge source="決定理論" target="経営学" />
+    <edge source="決定理論" target="科学の認識論" />
+    <edge source="決定理論" target="統計" />
+    <edge source="決定理論" target="離散数学" />
+    <edge source="決定理論" target="形式科学" />
+    <edge source="決定理論" target="問題解決" />
+    <edge source="決定理論" target="オペレーションズリサーチ" />
+    <edge source="テーマ別に分類したカテゴリ" target="カテゴリを集めたカテゴリ_(分類指標別)" />
+    <edge source="非金属元素" target="元素群" />
+    <edge source="意思決定" target="心理学" />
+    <edge source="意思決定" target="問題解決" />
+    <edge source="意思決定" target="コミュニケーション" />
+    <edge source="代数的整数論" target="数論" />
+    <edge source="名詞" target="品詞" />
+    <edge source="伝統" target="文化" />
+    <edge source="伝統" target="信念" />
+    <edge source="伝統" target="人類学" />
+    <edge source="各国の法" target="国別に分類したカテゴリ" />
+    <edge source="各国の法" target="地域別の法" />
+    <edge source="各国の法" target="法" />
+    <edge source="媒体" target="記憶装置" />
+    <edge source="媒体" target="コミュニケーション" />
+    <edge source="ナショナリズム" target="政治思想" />
+    <edge source="ナショナリズム" target="国民" />
+    <edge source="商業施設" target="施設" />
+    <edge source="商業施設" target="商業" />
+    <edge source="貿易" target="国際関係" />
+    <edge source="貿易" target="国際経済学" />
+    <edge source="貿易" target="国際経済" />
+    <edge source="貿易" target="商業" />
+    <edge source="貿易" target="国民経済" />
+    <edge source="皮膚" target="器官" />
+    <edge source="皮膚" target="感覚器" />
+    <edge source="図" target="科学的方法" />
+    <edge source="図" target="グラフィックデザイン" />
+    <edge source="図" target="画像処理" />
+    <edge source="獣医学" target="健康科学" />
+    <edge source="獣医学" target="農学" />
+    <edge source="獣医学" target="医学" />
+    <edge source="獣医学" target="動物学" />
+    <edge source="芸術" target="創造性" />
+    <edge source="芸術" target="文化" />
+    <edge source="教育" target="社会" />
+    <edge source="日本の都道府県" target="第一級行政区画" />
+    <edge source="日本の都道府県" target="日本の行政区画" />
+    <edge source="内地" target="日本の歴史的地名" />
+    <edge source="内地" target="大日本帝国" />
+    <edge source="君主国" target="君主制" />
+    <edge source="君主国" target="政体別の国家" />
+    <edge source="プロジェクト" target="技術" />
+    <edge source="プロジェクト" target="プロジェクトマネジメント" />
+    <edge source="政治地理学" target="人文地理学" />
+    <edge source="政治地理学" target="政治学" />
+    <edge source="動力学" target="物理学" />
+    <edge source="動力学" target="運動_(物理学)" />
+    <edge source="動力学" target="物理学の概念" />
+    <edge source="動力学" target="力学" />
+    <edge source="テーマ史" target="歴史" />
+    <edge source="テーマ史" target="テーマ別に分類したカテゴリ" />
+    <edge source="信号処理" target="電子工学" />
+    <edge source="信号処理" target="情報処理" />
+    <edge source="美" target="心" />
+    <edge source="美" target="価値観" />
+    <edge source="社会運動" target="社会思想" />
+    <edge source="社会運動" target="社会変動" />
+    <edge source="社会運動" target="ムーブメント" />
+    <edge source="社会運動" target="社会学" />
+    <edge source="環境" target="社会" />
+    <edge source="環境" target="自然" />
+    <edge source="西洋哲学" target="地域別の哲学" />
+    <edge source="西洋哲学" target="西洋文化" />
+    <edge source="西洋哲学" target="思想史" />
+    <edge source="西洋哲学" target="哲学的伝統" />
+    <edge source="信念" target="宗教の認識論" />
+    <edge source="信念" target="批判的思考" />
+    <edge source="信念" target="倫理原則" />
+    <edge source="信念" target="認識論の概念" />
+    <edge source="日本の行政区画" target="各国の行政区分" />
+    <edge source="日本の行政区画" target="日本の行政" />
+    <edge source="日本の行政区画" target="日本の地方区分" />
+    <edge source="ジャンル" target="分類" />
+    <edge source="ジャンル" target="作品" />
+    <edge source="外国人" target="人間の移動" />
+    <edge source="外国人" target="国籍" />
+    <edge source="外国人" target="ディアスポラ" />
+    <edge source="外国人" target="社会的少数者" />
+    <edge source="地球科学" target="地球" />
+    <edge source="地球科学" target="自然科学" />
+    <edge source="地球科学" target="理学" />
+    <edge source="地球科学" target="自然史" />
+    <edge source="紛争" target="社会思想" />
+    <edge source="紛争" target="社会心理学" />
+    <edge source="紛争" target="人間行動学" />
+    <edge source="デジタルシステム" target="情報システム" />
+    <edge source="デジタルシステム" target="デジタル技術" />
+    <edge source="器官" target="人体のしくみ" />
+    <edge source="器官" target="人体の部位" />
+    <edge source="器官" target="解剖学" />
+    <edge source="器官" target="マクロ解剖学" />
+    <edge source="器官" target="動物学" />
+    <edge source="腐敗" target="倫理" />
+    <edge source="歴史の一覧" target="一覧のカテゴリ" />
+    <edge source="歴史の一覧" target="歴史" />
+    <edge source="評価方法" target="評価" />
+    <edge source="評価方法" target="調査" />
+    <edge source="評価方法" target="方法論" />
+    <edge source="評価" target="批判的思考" />
+    <edge source="評価" target="価値観" />
+    <edge source="複製" target="記録" />
+    <edge source="複製" target="著作権法" />
+    <edge source="社会心理学" target="心理学の分野" />
+    <edge source="社会心理学" target="行動科学" />
+    <edge source="社会心理学" target="社会学の分野" />
+    <edge source="法系別の法" target="地域別の法" />
+    <edge source="法系別の法" target="法系" />
+    <edge source="技術史" target="科学史" />
+    <edge source="技術史" target="技術" />
+    <edge source="技術史" target="工学史" />
+    <edge source="技術史" target="産業史" />
+    <edge source="技術史" target="テーマ史" />
+    <edge source="ヨーロッパの言語" target="地域別の言語" />
+    <edge source="ヨーロッパの言語" target="ヨーロッパの文化" />
+    <edge source="コンピュータネットワーク" target="通信インフラ" />
+    <edge source="コンピュータネットワーク" target="データ転送" />
+    <edge source="コンピュータネットワーク" target="コンピュータ" />
+    <edge source="コンピュータネットワーク" target="ネットワーク" />
+    <edge source="哲学的方法論" target="メタ哲学" />
+    <edge source="哲学的方法論" target="方法論" />
+    <edge source="酸素の化合物" target="元素別の化合物分類" />
+    <edge source="酸素の化合物" target="酸素" />
+    <edge source="実体法" target="分野別の法" />
+    <edge source="産業史" target="工業" />
+    <edge source="産業史" target="技術史" />
+    <edge source="産業史" target="技術革新" />
+    <edge source="産業史" target="経済史" />
+    <edge source="産業史" target="歴史の分野" />
+    <edge source="本質主義" target="形而上学的理論" />
+    <edge source="本質主義" target="美学の理論" />
+    <edge source="大陸別の地域" target="大陸別の地理" />
+    <edge source="大陸別の地域" target="地域" />
+    <edge source="産業" target="社会システム" />
+    <edge source="産業" target="経済" />
+    <edge source="概念体系" target="システム科学" />
+    <edge source="概念体系" target="システム" />
+    <edge source="概念体系" target="認知科学" />
+    <edge source="哲学的論理学" target="論理学" />
+    <edge source="哲学的論理学" target="分析哲学" />
+    <edge source="芸術の歴史" target="文化史" />
+    <edge source="芸術の歴史" target="芸術" />
+    <edge source="芸術の歴史" target="テーマ史" />
+    <edge source="形態論" target="文法" />
+    <edge source="形態論" target="言語学" />
+    <edge source="ドイツの文化" target="ドイツ" />
+    <edge source="ドイツの文化" target="各国の文化" />
+    <edge source="ドイツの文化" target="ヨーロッパの文化" />
+    <edge source="システム工学" target="工学の分野" />
+    <edge source="システム工学" target="システム科学" />
+    <edge source="システム工学" target="一般システム理論" />
+    <edge source="振動と波動" target="物理学の概念" />
+    <edge source="振動と波動" target="物理化学の現象" />
+    <edge source="振動と波動" target="周期現象" />
+    <edge source="振動と波動" target="物理現象" />
+    <edge source="日本の時代区分" target="日本の歴史" />
+    <edge source="日本の時代区分" target="各国史の時代区分" />
+    <edge source="海" target="地球" />
+    <edge source="海" target="水域" />
+    <edge source="視覚" target="光" />
+    <edge source="視覚" target="感覚" />
+    <edge source="視覚" target="目" />
+    <edge source="健康問題" target="健康" />
+    <edge source="健康問題" target="問題" />
+    <edge source="健康問題" target="社会問題" />
+    <edge source="東アジア史" target="東洋文化" />
+    <edge source="東アジア史" target="地域史" />
+    <edge source="東アジア史" target="アジア史" />
+    <edge source="東アジア史" target="東アジア" />
+    <edge source="ドイツの歴史" target="ヨーロッパ史_(国別)" />
+    <edge source="ドイツの歴史" target="ドイツ" />
+    <edge source="ドイツの歴史" target="各国の歴史" />
+    <edge source="プロジェクトマネジメント" target="プロジェクト" />
+    <edge source="プロジェクトマネジメント" target="ソフトウェア工学" />
+    <edge source="プロジェクトマネジメント" target="経営学" />
+    <edge source="プロジェクトマネジメント" target="製造" />
+    <edge source="動物学" target="博物学" />
+    <edge source="動物学" target="生物学の分野" />
+    <edge source="動物学" target="動物" />
+    <edge source="テレビ" target="映像技術" />
+    <edge source="テレビ" target="放送" />
+    <edge source="テレビ" target="娯楽" />
+    <edge source="ゲルマン人" target="インド・ヨーロッパ系諸民族" />
+    <edge source="ゲルマン人" target="ヨーロッパの民族" />
+    <edge source="方法論" target="形式科学" />
+    <edge source="方法論" target="技能" />
+    <edge source="主権" target="政治学の理論" />
+    <edge source="主権" target="政治概念" />
+    <edge source="主権" target="国際法" />
+    <edge source="主権" target="政治地理学" />
+    <edge source="主権" target="国際関係" />
+    <edge source="太陽系の惑星" target="太陽系" />
+    <edge source="太陽系の惑星" target="惑星" />
+    <edge source="交通" target="人間の移動" />
+    <edge source="交通" target="分野別の技術" />
+    <edge source="交通" target="ネットワーク技術" />
+    <edge source="交通" target="産業" />
+    <edge source="生物" target="地球" />
+    <edge source="生物" target="生命" />
+    <edge source="生物" target="生物学" />
+    <edge source="サイバネティックス" target="システム科学" />
+    <edge source="サイバネティックス" target="学際領域" />
+    <edge source="サイバネティックス" target="応用数学" />
+    <edge source="サイバネティックス" target="認知科学" />
+    <edge source="カルコゲン化物" target="カルコゲン" />
+    <edge source="自然科学" target="自然" />
+    <edge source="自然科学" target="科学的専門分野" />
+    <edge source="自然科学" target="科学" />
+    <edge source="治安" target="安全" />
+    <edge source="治安" target="行政学" />
+    <edge source="治安" target="国内政策" />
+    <edge source="アジアの地域" target="大陸別の地域" />
+    <edge source="アジアの地域" target="アジアの地理" />
+    <edge source="治安問題" target="治安" />
+    <edge source="治安問題" target="社会問題" />
+    <edge source="工業" target="技術" />
+    <edge source="工業" target="ビジネス" />
+    <edge source="各国の国際関係" target="国別に分類したカテゴリ" />
+    <edge source="各国の国際関係" target="国際関係" />
+    <edge source="各国の国際関係" target="各国の政治" />
+    <edge source="ヨーロッパの政治" target="大陸別の政治" />
+    <edge source="ヨーロッパの政治" target="ヨーロッパ" />
+    <edge source="政治団体" target="政治運動" />
+    <edge source="政治団体" target="分野別の組織" />
+    <edge source="近代史" target="時代区分" />
+    <edge source="民族の系統" target="民族" />
+    <edge source="脊椎動物の解剖学" target="脊椎動物" />
+    <edge source="脊椎動物の解剖学" target="動物解剖学" />
+    <edge source="危機管理" target="セキュリティ" />
+    <edge source="危機管理" target="安全保障" />
+    <edge source="危機管理" target="危機" />
+    <edge source="企業統治" target="企業法" />
+    <edge source="企業統治" target="経営学" />
+    <edge source="企業統治" target="企業" />
+    <edge source="企業統治" target="腐敗防止法" />
+    <edge source="燃料" target="物質" />
+    <edge source="燃料" target="化学物質" />
+    <edge source="燃料" target="資源" />
+    <edge source="燃料" target="大気汚染" />
+    <edge source="燃料" target="エネルギー" />
+    <edge source="経営学" target="社会科学" />
+    <edge source="経営学" target="経済" />
+    <edge source="コンピュータシステム" target="計算機工学" />
+    <edge source="コンピュータシステム" target="システム工学" />
+    <edge source="コンピュータシステム" target="コンピュータ" />
+    <edge source="容姿" target="人間" />
+    <edge source="容姿" target="美学" />
+    <edge source="容姿" target="人体" />
+    <edge source="加速度" target="動力学" />
+    <edge source="加速度" target="運動学" />
+    <edge source="加速度" target="長さ" />
+    <edge source="加速度" target="物理量" />
+    <edge source="加速度" target="速度" />
+    <edge source="システム科学" target="工学の分野" />
+    <edge source="システム科学" target="システム" />
+    <edge source="システム科学" target="形式科学" />
+    <edge source="システム科学" target="応用科学" />
+    <edge source="神秘主義" target="各種の宗教" />
+    <edge source="神秘主義" target="世界観" />
+    <edge source="神秘主義" target="思想" />
+    <edge source="文書作成" target="科学的方法" />
+    <edge source="文書作成" target="表現技術" />
+    <edge source="文書作成" target="文書" />
+    <edge source="政治学の理論" target="政治理論" />
+    <edge source="政治学の理論" target="政治学" />
+    <edge source="形態学_(生物学)" target="生物学" />
+    <edge source="形態学_(生物学)" target="生物学の分野" />
+    <edge source="ビジネス経済学" target="経済学の分野" />
+    <edge source="ビジネス経済学" target="ビジネス" />
+    <edge source="社会科学" target="社会" />
+    <edge source="社会科学" target="科学的専門分野" />
+    <edge source="政治イデオロギー" target="政治思想" />
+    <edge source="政治イデオロギー" target="イデオロギー" />
+    <edge source="参考文献" target="図書館" />
+    <edge source="参考文献" target="書誌学" />
+    <edge source="参考文献" target="図書館情報学" />
+    <edge source="参考文献" target="資料学" />
+    <edge source="参考文献" target="参考" />
+    <edge source="アルゴリズム" target="データ構造" />
+    <edge source="アルゴリズム" target="プログラミング" />
+    <edge source="アルゴリズム" target="数学的問題解決" />
+    <edge source="アルゴリズム" target="計算機科学" />
+    <edge source="哲学のムーブメント" target="哲学史" />
+    <edge source="哲学のムーブメント" target="ムーブメント" />
+    <edge source="哲学のムーブメント" target="学派" />
+    <edge source="哲学のムーブメント" target="哲学の理論" />
+    <edge source="哲学" target="人文科学" />
+    <edge source="哲学" target="思考" />
+    <edge source="行動" target="心" />
+    <edge source="行動" target="生活" />
+    <edge source="国際関係" target="政治地理学" />
+    <edge source="国際関係" target="国" />
+    <edge source="国際関係" target="政治学" />
+    <edge source="公平" target="政治概念" />
+    <edge source="公平" target="倫理原則" />
+    <edge source="公平" target="社会概念" />
+    <edge source="不動産" target="家計" />
+    <edge source="不動産" target="私法" />
+    <edge source="不動産" target="産業" />
+    <edge source="意識" target="心" />
+    <edge source="意識" target="心理学の概念" />
+    <edge source="言語学" target="自然科学" />
+    <edge source="言語学" target="人文科学" />
+    <edge source="ドイツ" target="西欧" />
+    <edge source="ドイツ" target="中欧" />
+    <edge source="ドイツ" target="ドイツ語圏" />
+    <edge source="ドイツ" target="ヨーロッパの国" />
+    <edge source="商業" target="マーケティング" />
+    <edge source="商業" target="ビジネス経済学" />
+    <edge source="商業" target="産業" />
+    <edge source="商業" target="ビジネス" />
+    <edge source="民族" target="アイデンティティ" />
+    <edge source="民族" target="社会集団" />
+    <edge source="民族" target="文化人類学" />
+    <edge source="競技会" target="イベント" />
+    <edge source="競技会" target="娯楽" />
+    <edge source="競技会" target="コンテスト" />
+    <edge source="輸送機器" target="輸送" />
+    <edge source="輸送機器" target="交通" />
+    <edge source="輸送機器" target="機器" />
+    <edge source="資料学" target="記録" />
+    <edge source="資料学" target="人文科学" />
+    <edge source="心" target="人間" />
+    <edge source="各国の行政" target="国別に分類したカテゴリ" />
+    <edge source="各国の行政" target="各国の政治" />
+    <edge source="各国の行政" target="行政" />
+    <edge source="国民経済" target="国家" />
+    <edge source="国民経済" target="経済" />
+    <edge source="倫理学の概念" target="哲学の概念" />
+    <edge source="倫理学の概念" target="分野別の概念" />
+    <edge source="倫理学の概念" target="倫理" />
+    <edge source="単位" target="情報" />
+    <edge source="単位" target="指標" />
+    <edge source="酸素" target="カルコゲン" />
+    <edge source="酸素" target="元素" />
+    <edge source="酸素" target="非金属元素" />
+    <edge source="ヒエラルキー" target="順番" />
+    <edge source="ヒエラルキー" target="政治文化" />
+    <edge source="ヒエラルキー" target="パターン" />
+    <edge source="ヨーロッパの国" target="大陸別の国" />
+    <edge source="ヨーロッパの国" target="ヨーロッパの地理" />
+    <edge source="ヨーロッパの国" target="ヨーロッパ" />
+    <edge source="差別" target="平等主義" />
+    <edge source="差別" target="偏見" />
+    <edge source="差別" target="暴力" />
+    <edge source="差別" target="人権侵害" />
+    <edge source="心の形而上学" target="形而上学" />
+    <edge source="心の形而上学" target="心の哲学" />
+    <edge source="法" target="社会制度" />
+    <edge source="法" target="社会科学" />
+    <edge source="法" target="公平" />
+    <edge source="法" target="社会概念" />
+    <edge source="生物材料" target="生物の文化" />
+    <edge source="生物材料" target="材料" />
+    <edge source="アジアの社会" target="アジア" />
+    <edge source="アジアの社会" target="大陸別の社会" />
+    <edge source="ヨーロッパの地理" target="大陸別の地理" />
+    <edge source="ヨーロッパの地理" target="ヨーロッパ" />
+    <edge source="インテリアデザイン" target="デザイン" />
+    <edge source="インテリアデザイン" target="装飾美術" />
+    <edge source="インテリアデザイン" target="建築意匠" />
+    <edge source="社会理論" target="社会学" />
+    <edge source="社会理論" target="理論" />
+    <edge source="知能" target="教育心理学" />
+    <edge source="知能" target="思考" />
+    <edge source="知能" target="認知科学" />
+    <edge source="学習" target="教育" />
+    <edge source="学習" target="記憶" />
+    <edge source="学習" target="思考" />
+    <edge source="電子" target="電気" />
+    <edge source="電子" target="固体物理学" />
+    <edge source="電子" target="レプトン" />
+    <edge source="電子" target="原子" />
+    <edge source="外国人嫌悪" target="憎悪" />
+    <edge source="外国人嫌悪" target="外国人" />
+    <edge source="外国人嫌悪" target="人種差別" />
+    <edge source="外国人嫌悪" target="対外情緒" />
+    <edge source="外国人嫌悪" target="恐怖症" />
+    <edge source="外国人嫌悪" target="ナショナリズム" />
+    <edge source="外国人嫌悪" target="偏見" />
+    <edge source="精神" target="心" />
+    <edge source="制御工学" target="電子工学" />
+    <edge source="制御工学" target="機械工学" />
+    <edge source="制御工学" target="システム工学" />
+    <edge source="制御工学" target="電気工学" />
+    <edge source="電気工学" target="工学の分野" />
+    <edge source="電気工学" target="電気" />
+    <edge source="経済的自由主義" target="経済思想" />
+    <edge source="経済的自由主義" target="古典的自由主義" />
+    <edge source="権利" target="社会概念" />
+    <edge source="権利" target="法" />
+    <edge source="権利" target="公平" />
+    <edge source="権利" target="政治問題" />
+    <edge source="権利" target="倫理原則" />
+    <edge source="群集心理学" target="社会心理学" />
+    <edge source="群集心理学" target="組織心理学" />
+    <edge source="群集心理学" target="人間行動学" />
+    <edge source="ドイツ語" target="西ゲルマン語群" />
+    <edge source="ドイツ語" target="ドイツの言語" />
+    <edge source="コンピュータ" target="情報技術" />
+    <edge source="コンピュータ" target="情報機器" />
+    <edge source="コンピュータ" target="計算機科学" />
+    <edge source="電磁気学" target="物理学" />
+    <edge source="電磁気学" target="電気" />
+    <edge source="電磁気学" target="磁気" />
+    <edge source="記録" target="情報" />
+    <edge source="記録" target="データ管理" />
+    <edge source="各国史の時代区分" target="時代区分" />
+    <edge source="各国史の時代区分" target="各国の歴史" />
+    <edge source="教育機関" target="教育に関する組織" />
+    <edge source="惑星系" target="恒星" />
+    <edge source="惑星系" target="惑星" />
+    <edge source="各国の言語" target="国別に分類したカテゴリ" />
+    <edge source="各国の言語" target="言語" />
+    <edge source="各国の言語" target="各国の文化" />
+    <edge source="各国の言語" target="各国の社会" />
+    <edge source="天文学史" target="天文学" />
+    <edge source="天文学史" target="科学史" />
+    <edge source="夏季オリンピックの開催都市" target="夏季オリンピック" />
+    <edge source="夏季オリンピックの開催都市" target="都市" />
+    <edge source="人種差別" target="人種" />
+    <edge source="人種差別" target="差別" />
+    <edge source="人種差別" target="憎悪" />
+    <edge source="人種差別" target="迫害" />
+    <edge source="人種差別" target="不公平" />
+    <edge source="人種差別" target="アイデンティティ・ポリティクス" />
+    <edge source="人種差別" target="本質主義" />
+    <edge source="大脳" target="脳" />
+    <edge source="亜原子粒子" target="物質" />
+    <edge source="亜原子粒子" target="素粒子物理学" />
+    <edge source="亜原子粒子" target="原子核物理学" />
+    <edge source="コンピュータの仕組み" target="コンピュータ" />
+    <edge source="場所別の社会" target="社会" />
+    <edge source="場所別の社会" target="場所別に分類したカテゴリ" />
+    <edge source="労働関連の組織" target="分野別の組織" />
+    <edge source="労働関連の組織" target="労働" />
+    <edge source="結晶" target="物質の相" />
+    <edge source="応用科学" target="学問分野の応用" />
+    <edge source="応用科学" target="科学的専門分野" />
+    <edge source="データ転送" target="通信プロトコル" />
+    <edge source="データ転送" target="コンピュータのデータ" />
+    <edge source="データ転送" target="電気通信" />
+    <edge source="各国の地域" target="国別に分類したカテゴリ" />
+    <edge source="各国の地域" target="地域" />
+    <edge source="各国の地域" target="各国の地理" />
+    <edge source="紙" target="生物材料" />
+    <edge source="紙" target="文房具" />
+    <edge source="紙" target="筆記媒体" />
+    <edge source="製造" target="分野別の技術" />
+    <edge source="製造" target="工学" />
+    <edge source="画像処理" target="コンピュータの利用" />
+    <edge source="画像処理" target="映像技術" />
+    <edge source="画像処理" target="情報処理" />
+    <edge source="画像処理" target="デジタル信号処理" />
+    <edge source="記号学" target="社会科学" />
+    <edge source="記号学" target="学際領域" />
+    <edge source="記号学" target="記号" />
+    <edge source="記号学" target="サイバネティックス" />
+    <edge source="世界観" target="哲学の関連分野" />
+    <edge source="世界観" target="思想" />
+    <edge source="美学の理論" target="美学" />
+    <edge source="美学の理論" target="哲学の理論" />
+    <edge source="知識表現" target="知識" />
+    <edge source="知識表現" target="人工知能" />
+    <edge source="知識表現" target="情報学" />
+    <edge source="パーソナルコンピュータ" target="家電機器" />
+    <edge source="パーソナルコンピュータ" target="コンピュータの形態" />
+    <edge source="パーソナルコンピュータ" target="情報機器" />
+    <edge source="建築" target="芸術" />
+    <edge source="建築" target="建設" />
+    <edge source="アジアの地理" target="大陸別の地理" />
+    <edge source="アジアの地理" target="アジア" />
+    <edge source="家計" target="生活科学" />
+    <edge source="家計" target="生活" />
+    <edge source="家計" target="経済" />
+    <edge source="分野別作品" target="作品" />
+    <edge source="分野別作品" target="分野別に分類したカテゴリ" />
+    <edge source="社会変動" target="社会理論" />
+    <edge source="社会変動" target="社会史" />
+    <edge source="頭" target="頭頸部" />
+    <edge source="ポストモダニズム" target="芸術運動" />
+    <edge source="ポストモダニズム" target="美学の理論" />
+    <edge source="ポストモダニズム" target="哲学のムーブメント" />
+    <edge source="ポストモダニズム" target="文化運動" />
+    <edge source="応用数学" target="学問分野の応用" />
+    <edge source="応用数学" target="数学的問題解決" />
+    <edge source="応用数学" target="数学" />
+    <edge source="応用数学" target="応用科学" />
+    <edge source="応用数学" target="数理科学" />
+    <edge source="政治情報" target="政治" />
+    <edge source="政治情報" target="テーマ別のメディア" />
+    <edge source="各種の宗教" target="宗教" />
+    <edge source="法系" target="概念体系" />
+    <edge source="法系" target="法哲学" />
+    <edge source="法系" target="比較法学" />
+    <edge source="化合物" target="分子" />
+    <edge source="化合物" target="化学物質" />
+    <edge source="化合物" target="物質" />
+    <edge source="歴史の分野" target="史学史" />
+    <edge source="歴史の分野" target="歴史" />
+    <edge source="歴史の分野" target="分野別に分類したカテゴリ" />
+    <edge source="文化経済学" target="芸術" />
+    <edge source="文化経済学" target="経済学の分野" />
+    <edge source="文化経済学" target="カルチュラル・スタディーズ" />
+    <edge source="アジアの首都" target="アジアの国" />
+    <edge source="アジアの首都" target="首都" />
+    <edge source="アジアの首都" target="アジアの地理" />
+    <edge source="アジア" target="ユーラシア" />
+    <edge source="アジア" target="大陸" />
+    <edge source="天体物理学" target="天文学" />
+    <edge source="天体物理学" target="宇宙論・宇宙物理学" />
+    <edge source="記号" target="情報" />
+    <edge source="民事法" target="分野別の法" />
+    <edge source="初等教育" target="教育段階" />
+    <edge source="世紀" target="紀年法" />
+    <edge source="世紀" target="暦法" />
+    <edge source="世紀" target="年表" />
+    <edge source="物理化学" target="物理学" />
+    <edge source="物理化学" target="化学" />
+    <edge source="リバタリアニズム" target="社会理論" />
+    <edge source="リバタリアニズム" target="経済的自由主義" />
+    <edge source="リバタリアニズム" target="個人主義" />
+    <edge source="リバタリアニズム" target="古典的自由主義" />
+    <edge source="リバタリアニズム" target="政治的スペクトル" />
+    <edge source="各国の人権" target="国別に分類したカテゴリ" />
+    <edge source="各国の人権" target="各国の社会" />
+    <edge source="各国の人権" target="人権" />
+    <edge source="各国の人権" target="各国の政治" />
+    <edge source="無機化学" target="化学" />
+    <edge source="ヨーロッパ史_(国別)" target="各国の歴史" />
+    <edge source="ヨーロッパ史_(国別)" target="ヨーロッパ史" />
+    <edge source="島" target="地形" />
+    <edge source="国籍" target="アイデンティティ" />
+    <edge source="国籍" target="ナショナリズム" />
+    <edge source="国籍" target="国" />
+    <edge source="国籍" target="行政作用法" />
+    <edge source="国籍" target="政治概念" />
+    <edge source="労働" target="生活" />
+    <edge source="労働" target="経済" />
+    <edge source="実験心理学" target="心理学の分野" />
+    <edge source="水運" target="水域" />
+    <edge source="水運" target="交通_(方法別)" />
+    <edge source="水運" target="輸送" />
+    <edge source="作品" target="芸術" />
+    <edge source="理論物理学" target="物理学" />
+    <edge source="理論物理学" target="理論" />
+    <edge source="バルカン" target="ヨーロッパの地域" />
+    <edge source="バルカン" target="東欧" />
+    <edge source="人権" target="権利" />
+    <edge source="人権" target="応用倫理学" />
+    <edge source="人権" target="人間" />
+    <edge source="人権" target="自然法論" />
+    <edge source="人権" target="社会概念" />
+    <edge source="哲学の関連分野" target="哲学" />
+    <edge source="農林水産業" target="生物の文化" />
+    <edge source="農林水産業" target="産業" />
+    <edge source="複素解析" target="解析学" />
+    <edge source="アジア史_(時代別)" target="アジア史" />
+    <edge source="アジア史_(時代別)" target="時代別に分類したカテゴリ" />
+    <edge source="気象" target="地球" />
+    <edge source="気象" target="環境" />
+    <edge source="現実" target="形而上学の概念" />
+    <edge source="大陸法系の法" target="大陸法系" />
+    <edge source="大陸法系の法" target="法系別の法" />
+    <edge source="国内政策" target="公共政策" />
+    <edge source="学問の分野" target="学問" />
+    <edge source="学問の分野" target="テーマ別に分類したカテゴリ" />
+    <edge source="学問の分野" target="分野別に分類したカテゴリ" />
+    <edge source="大陸別の文化" target="大陸別に分類したカテゴリ" />
+    <edge source="大陸別の文化" target="地域別の文化" />
+    <edge source="目" target="組織_(生物)" />
+    <edge source="目" target="感覚器" />
+    <edge source="目" target="顔" />
+    <edge source="長さ" target="初等幾何学" />
+    <edge source="長さ" target="物理量" />
+    <edge source="恒星" target="天体" />
+    <edge source="各国の政府" target="国別に分類したカテゴリ" />
+    <edge source="各国の政府" target="政府" />
+    <edge source="各国の政府" target="各国の政治" />
+    <edge source="開発学" target="開発" />
+    <edge source="開発学" target="学問の分野" />
+    <edge source="かつて存在した日本の地名" target="日本の地方自治の歴史" />
+    <edge source="かつて存在した日本の地名" target="かつて存在した地名" />
+    <edge source="かつて存在した日本の地名" target="日本の地名" />
+    <edge source="情報技術" target="分野別の技術" />
+    <edge source="情報技術" target="技術" />
+    <edge source="情報技術" target="情報" />
+    <edge source="情報技術" target="情報学" />
+    <edge source="死" target="生命" />
+    <edge source="死" target="人の一生" />
+    <edge source="死" target="スピリチュアリティ" />
+    <edge source="学問" target="主要カテゴリ" />
+    <edge source="各国の歴史" target="国別に分類したカテゴリ" />
+    <edge source="各国の歴史" target="歴史" />
+    <edge source="人間の移動" target="社会史" />
+    <edge source="人間の移動" target="社会" />
+    <edge source="人間の移動" target="国際関係史" />
+    <edge source="人間の移動" target="グローバル化の問題" />
+    <edge source="人間の移動" target="人口" />
+    <edge source="地域別の経済" target="地域別に分類したカテゴリ" />
+    <edge source="地域別の経済" target="経済地理学" />
+    <edge source="地域別の経済" target="経済" />
+    <edge source="北アメリカの国" target="大陸別の国" />
+    <edge source="北アメリカの国" target="北アメリカの地理" />
+    <edge source="北アメリカの国" target="北アメリカの地方区分" />
+    <edge source="ヨーロッパの人物" target="大陸別の人物" />
+    <edge source="ヨーロッパの人物" target="ヨーロッパ" />
+    <edge source="資源" target="環境" />
+    <edge source="資源" target="経済" />
+    <edge source="心理学" target="人間科学" />
+    <edge source="心理学" target="行動科学" />
+    <edge source="心理学" target="心" />
+    <edge source="心理学" target="人文科学" />
+    <edge source="心理学" target="社会学の分野" />
+    <edge source="人物" target="人間" />
+    <edge source="技法" target="技能" />
+    <edge source="コーポラティズム" target="労働運動" />
+    <edge source="コーポラティズム" target="経済思想" />
+    <edge source="コーポラティズム" target="政治的スペクトル" />
+    <edge source="コーポラティズム" target="政治理論" />
+    <edge source="情報法" target="情報技術" />
+    <edge source="情報法" target="情報社会" />
+    <edge source="情報法" target="分野別の法" />
+    <edge source="情報法" target="情報学" />
+    <edge source="ドイツの社会" target="ヨーロッパの社会" />
+    <edge source="ドイツの社会" target="ドイツ" />
+    <edge source="ドイツの社会" target="各国の社会" />
+    <edge source="教育の分野" target="教育" />
+    <edge source="教育の分野" target="学問の分野" />
+    <edge source="日本の法" target="大陸法系の法" />
+    <edge source="日本の法" target="各国の法" />
+    <edge source="日本の法" target="日本の社会" />
+    <edge source="情報社会" target="社会システム" />
+    <edge source="情報社会" target="情報技術" />
+    <edge source="情報社会" target="情報" />
+    <edge source="情報社会" target="情報学" />
+    <edge source="事件" target="社会問題" />
+    <edge source="思考" target="心" />
+    <edge source="人権侵害" target="倫理" />
+    <edge source="人権侵害" target="人権問題" />
+    <edge source="現象" target="自然" />
+    <edge source="現象" target="哲学の主題" />
+    <edge source="現象" target="心" />
+    <edge source="日本の政治史" target="日本の政治" />
+    <edge source="日本の政治史" target="各国の政治史" />
+    <edge source="日本の政治史" target="日本のテーマ史" />
+    <edge source="元素群" target="元素" />
+    <edge source="グローバリゼーション" target="20世紀の経済史" />
+    <edge source="グローバリゼーション" target="国際関係" />
+    <edge source="グローバリゼーション" target="アメリカ合衆国の経済_(1990年-)" />
+    <edge source="グローバリゼーション" target="20世紀の世界史" />
+    <edge source="グローバリゼーション" target="2000年代" />
+    <edge source="グローバリゼーション" target="貿易" />
+    <edge source="グローバリゼーション" target="経済地理学" />
+    <edge source="グローバリゼーション" target="政治理論" />
+    <edge source="グローバリゼーション" target="国際経済" />
+    <edge source="グローバリゼーション" target="ビジネス" />
+    <edge source="グローバリゼーション" target="1990年代" />
+    <edge source="化学物質" target="物質" />
+    <edge source="化学物質" target="化学" />
+    <edge source="日本の公法" target="各国の公法" />
+    <edge source="日本の公法" target="日本の法_(分野別)" />
+    <edge source="電気" target="分野別の技術" />
+    <edge source="電気" target="エネルギー" />
+    <edge source="地域史" target="地域別に分類したカテゴリ" />
+    <edge source="地域史" target="歴史" />
+    <edge source="ゲーム理論" target="意思決定" />
+    <edge source="ゲーム理論" target="数理的手法と定量的手法(経済学)" />
+    <edge source="ゲーム理論" target="数理経済学" />
+    <edge source="ゲーム理論" target="理論" />
+    <edge source="ゲーム理論" target="心理学" />
+    <edge source="ゲーム理論" target="応用数学" />
+    <edge source="ゲーム理論" target="人間行動学" />
+    <edge source="ゲーム理論" target="決定理論" />
+    <edge source="ゲーム理論" target="ゲーム" />
+    <edge source="ゲーム理論" target="問題解決" />
+    <edge source="ゲーム理論" target="オペレーションズリサーチ" />
+    <edge source="古典的自由主義" target="政治的右翼" />
+    <edge source="古典的自由主義" target="政治経済学" />
+    <edge source="古典的自由主義" target="自由主義" />
+    <edge source="惑星" target="天体" />
+    <edge source="遊び" target="文化" />
+    <edge source="遊び" target="サブカルチャー" />
+    <edge source="遊び" target="人間行動学" />
+    <edge source="各国の行政区分" target="国別に分類したカテゴリ" />
+    <edge source="各国の行政区分" target="各国の地方区分" />
+    <edge source="各国の行政区分" target="行政区画" />
+    <edge source="各国の行政区分" target="各国の地理" />
+    <edge source="協働" target="組織_(団体)" />
+    <edge source="協働" target="労働" />
+    <edge source="協働" target="社会心理学" />
+    <edge source="協働" target="人間行動学" />
+    <edge source="経済史" target="経済学" />
+    <edge source="経済史" target="テーマ史" />
+    <edge source="経済史" target="歴史の分野" />
+    <edge source="ヨーロッパ史_(時代別)" target="時代別に分類したカテゴリ" />
+    <edge source="ヨーロッパ史_(時代別)" target="ヨーロッパ史" />
+    <edge source="放送" target="分野別の技術" />
+    <edge source="放送" target="ネットワーク技術" />
+    <edge source="放送" target="電気通信" />
+    <edge source="放送" target="マスメディア" />
+    <edge source="放送" target="無線" />
+    <edge source="日本の地域ブロック" target="日本の地方区分" />
+    <edge source="日本の地域ブロック" target="日本の地域" />
+    <edge source="分析哲学" target="分析" />
+    <edge source="分析哲学" target="哲学史" />
+    <edge source="分析哲学" target="20世紀哲学" />
+    <edge source="分析哲学" target="西洋哲学" />
+    <edge source="分析哲学" target="哲学的伝統" />
+    <edge source="装飾美術" target="美術のジャンル" />
+    <edge source="水域" target="地形" />
+    <edge source="水域" target="水環境" />
+    <edge source="水域" target="水文学" />
+    <edge source="政治" target="社会" />
+    <edge source="表現技術" target="情報" />
+    <edge source="表現技術" target="技能" />
+    <edge source="イベント" target="文化" />
+    <edge source="イベント" target="協働" />
+    <edge source="哲学の主題" target="哲学" />
+    <edge source="言語地理学" target="社会言語学" />
+    <edge source="言語地理学" target="歴史言語学" />
+    <edge source="言語地理学" target="人文地理学" />
+    <edge source="言語地理学" target="言語学" />
+    <edge source="美学" target="芸術" />
+    <edge source="美学" target="美" />
+    <edge source="美学" target="哲学の分野" />
+    <edge source="人口" target="社会科学" />
+    <edge source="人口" target="人文地理学" />
+    <edge source="国際法" target="分野別の法" />
+    <edge source="労働社会学" target="社会学の分野" />
+    <edge source="労働社会学" target="労働研究" />
+    <edge source="科学" target="技術" />
+    <edge source="科学" target="学問" />
+    <edge source="健康" target="人間" />
+    <edge source="健康" target="生活" />
+    <edge source="健康" target="人体" />
+    <edge source="美術のジャンル" target="ジャンル" />
+    <edge source="美術のジャンル" target="美術" />
+    <edge source="アイデンティティ・ポリティクス" target="政治運動" />
+    <edge source="アイデンティティ・ポリティクス" target="アイデンティティ" />
+    <edge source="アイデンティティ・ポリティクス" target="カルチュラル・スタディーズ" />
+    <edge source="アイデンティティ・ポリティクス" target="倫理問題" />
+    <edge source="思想史" target="テーマ史" />
+    <edge source="思想史" target="哲学" />
+    <edge source="思想史" target="思想" />
+    <edge source="思想史" target="歴史の分野" />
+    <edge source="情報学" target="学際領域" />
+    <edge source="情報学" target="情報" />
+    <edge source="テーマ別のイベント" target="イベント" />
+    <edge source="テーマ別のイベント" target="テーマ別に分類したカテゴリ" />
+    <edge source="ソフトウェア工学" target="工学の分野" />
+    <edge source="ソフトウェア工学" target="システム工学" />
+    <edge source="ソフトウェア工学" target="計算機科学" />
+    <edge source="ソフトウェア工学" target="ソフトウェア" />
+    <edge source="大気汚染" target="大気" />
+    <edge source="大気汚染" target="気候変動の原因" />
+    <edge source="大気汚染" target="公害" />
+    <edge source="記憶装置" target="記録" />
+    <edge source="記憶装置" target="ハードウェア" />
+    <edge source="記憶装置" target="コンピュータのデータ" />
+    <edge source="記憶装置" target="コンピュータの仕組み" />
+    <edge source="印刷" target="分野別の技術" />
+    <edge source="印刷" target="記録" />
+    <edge source="印刷" target="複製" />
+    <edge source="印刷" target="製造" />
+    <edge source="大陸別の政治" target="地域別の政治" />
+    <edge source="大陸別の政治" target="大陸別に分類したカテゴリ" />
+    <edge source="大陸別の人物" target="人物" />
+    <edge source="大陸別の人物" target="大陸別に分類したカテゴリ" />
+    <edge source="国防" target="行政" />
+    <edge source="国防" target="安全保障" />
+    <edge source="材料" target="物質" />
+    <edge source="材料" target="製造" />
+    <edge source="材料" target="資源" />
+    <edge source="計画" target="未来" />
+    <edge source="計画" target="プロジェクトマネジメント" />
+    <edge source="計画" target="問題解決" />
+    <edge source="通信工学" target="工学の分野" />
+    <edge source="通信工学" target="通信" />
+    <edge source="通信工学" target="電気通信" />
+    <edge source="哲学の学派" target="哲学史" />
+    <edge source="哲学の学派" target="哲学" />
+    <edge source="哲学の学派" target="学派" />
+    <edge source="データ構造" target="コンピュータのデータ" />
+    <edge source="データ構造" target="プログラミング" />
+    <edge source="データ構造" target="データ管理" />
+    <edge source="データ構造" target="アルゴリズム" />
+    <edge source="プログラミング" target="ソフトウェア工学" />
+    <edge source="プログラミング" target="計算機科学" />
+    <edge source="プログラミング" target="コンピュータ" />
+    <edge source="基礎医学" target="医学" />
+    <edge source="水文学" target="自然地理学" />
+    <edge source="水文学" target="土木工学" />
+    <edge source="水文学" target="水" />
+    <edge source="固体物理学" target="結晶" />
+    <edge source="固体物理学" target="原子" />
+    <edge source="固体物理学" target="物性物理学" />
+    <edge source="固体物理学" target="物理学" />
+    <edge source="固体物理学" target="物質科学" />
+    <edge source="固体物理学" target="固体" />
+    <edge source="構造地質学" target="地質学" />
+    <edge source="書物" target="出版物" />
+    <edge source="書物" target="文書" />
+    <edge source="フェルミ粒子" target="素粒子" />
+    <edge source="フェルミ粒子" target="亜原子粒子" />
+    <edge source="東欧" target="ヨーロッパの地域" />
+    <edge source="東欧" target="中東欧" />
+    <edge source="飲食" target="生活" />
+    <edge source="飲食" target="動物" />
+    <edge source="社会における科学" target="科学論" />
+    <edge source="社会における科学" target="科学" />
+    <edge source="人間科学" target="社会科学" />
+    <edge source="人間科学" target="人間" />
+    <edge source="精神障害" target="臨床心理学" />
+    <edge source="精神障害" target="メンタルヘルス" />
+    <edge source="精神障害" target="病気" />
+    <edge source="精神障害" target="精神医学" />
+    <edge source="科学哲学の理論" target="科学哲学" />
+    <edge source="科学哲学の理論" target="哲学の理論" />
+    <edge source="医学" target="健康科学" />
+    <edge source="医学" target="生命科学" />
+    <edge source="医学" target="自然科学" />
+    <edge source="医学" target="応用科学" />
+    <edge source="医学" target="医療" />
+    <edge source="人文地理学" target="地理学の分野" />
+    <edge source="人文地理学" target="社会科学" />
+    <edge source="人文地理学" target="人間" />
+    <edge source="ハードウェア" target="計算機工学" />
+    <edge source="ハードウェア" target="デジタル技術" />
+    <edge source="ハードウェア" target="コンピュータ" />
+    <edge source="歴史地理学" target="歴史の分野" />
+    <edge source="歴史地理学" target="人文地理学" />
+    <edge source="言語" target="記号学" />
+    <edge source="言語" target="文化" />
+    <edge source="言語" target="情報" />
+    <edge source="国民" target="国籍" />
+    <edge source="国民" target="政治システム" />
+    <edge source="科学哲学" target="認識論" />
+    <edge source="科学哲学" target="科学論" />
+    <edge source="科学哲学" target="科学と文化" />
+    <edge source="科学哲学" target="分析哲学" />
+    <edge source="科学哲学" target="分野別の哲学" />
+    <edge source="経済学" target="社会科学" />
+    <edge source="経済学" target="経済" />
+    <edge source="化学" target="自然科学" />
+    <edge source="化学" target="物質科学" />
+    <edge source="化学" target="理学" />
+    <edge source="地政学" target="軍事学" />
+    <edge source="地政学" target="政治地理学" />
+    <edge source="地政学" target="国際関係" />
+    <edge source="地政学" target="政治学" />
+    <edge source="工学史" target="テーマ史" />
+    <edge source="工学史" target="工学" />
+    <edge source="工学史" target="産業史" />
+    <edge source="企業" target="組織_(団体)" />
+    <edge source="企業" target="産業" />
+    <edge source="自由主義" target="社会理論" />
+    <edge source="自由主義" target="20世紀哲学" />
+    <edge source="自由主義" target="個人主義" />
+    <edge source="自由主義" target="政治的スペクトル" />
+    <edge source="自由主義" target="政治的左翼" />
+    <edge source="迫害" target="不公平" />
+    <edge source="迫害" target="国防" />
+    <edge source="迫害" target="暴力" />
+    <edge source="迫害" target="社会心理学" />
+    <edge source="迫害" target="人権侵害" />
+    <edge source="日本の歴史" target="日本" />
+    <edge source="日本の歴史" target="各国の歴史" />
+    <edge source="日本の歴史" target="東アジア史" />
+    <edge source="教育制度" target="社会制度" />
+    <edge source="教育制度" target="教育" />
+    <edge source="製品" target="製造業" />
+    <edge source="製品" target="道具" />
+    <edge source="法学史" target="法学" />
+    <edge source="法学史" target="基礎法学" />
+    <edge source="法学史" target="思想史" />
+    <edge source="哲学の分野" target="哲学" />
+    <edge source="哲学の分野" target="学問の分野" />
+    <edge source="光" target="電磁波" />
+    <edge source="光" target="光学" />
+    <edge source="AV機器" target="家電機器" />
+    <edge source="AV機器" target="映像技術" />
+    <edge source="各国のテーマ史" target="テーマ史" />
+    <edge source="各国のテーマ史" target="各国の歴史" />
+    <edge source="宇宙空間" target="天文学" />
+    <edge source="宇宙空間" target="宇宙" />
+    <edge source="宇宙空間" target="場所" />
+    <edge source="教育学" target="人間科学" />
+    <edge source="教育学" target="教育" />
+    <edge source="教育学" target="人文科学" />
+    <edge source="大陸" target="地形" />
+    <edge source="大陸" target="地球" />
+    <edge source="大陸" target="プレートテクトニクス" />
+    <edge source="無政府主義" target="社会理論" />
+    <edge source="無政府主義" target="反ファシズム" />
+    <edge source="無政府主義" target="政府" />
+    <edge source="無政府主義" target="政治イデオロギー" />
+    <edge source="無政府主義" target="リバタリアニズム" />
+    <edge source="無政府主義" target="反資本主義" />
+    <edge source="無政府主義" target="政治経済学" />
+    <edge source="無政府主義" target="政治運動" />
+    <edge source="気候変動の原因" target="気候因子" />
+    <edge source="気候変動の原因" target="地球温暖化" />
+    <edge source="気候変動の原因" target="気候変動" />
+    <edge source="過去" target="時間" />
+    <edge source="社会概念" target="哲学の概念" />
+    <edge source="社会概念" target="社会思想" />
+    <edge source="社会概念" target="社会科学" />
+    <edge source="行政" target="法" />
+    <edge source="行政" target="政治" />
+    <edge source="各国の政治史" target="国別に分類したカテゴリ" />
+    <edge source="各国の政治史" target="政治史" />
+    <edge source="各国の政治史" target="各国の歴史" />
+    <edge source="各国の政治史" target="各国の政治" />
+    <edge source="反資本主義" target="消費主義" />
+    <edge source="反資本主義" target="経済思想" />
+    <edge source="反資本主義" target="労働" />
+    <edge source="反資本主義" target="政治イデオロギー" />
+    <edge source="反資本主義" target="資本主義" />
+    <edge source="地域別の民族" target="地域別に分類したカテゴリ" />
+    <edge source="地域別の民族" target="民族集団" />
+    <edge source="地域別の民族" target="場所別の民族" />
+    <edge source="生命" target="自然" />
+    <edge source="生命" target="倫理問題" />
+    <edge source="恐怖" target="感情" />
+    <edge source="価値観" target="形而上学の概念" />
+    <edge source="価値観" target="思想" />
+    <edge source="価値観" target="倫理学の概念" />
+    <edge source="思想" target="文化" />
+    <edge source="思想" target="思考" />
+    <edge source="思想" target="社会史" />
+    <edge source="帝国" target="君主国" />
+    <edge source="帝国" target="帝国主義" />
+    <edge source="帝国" target="植民主義" />
+    <edge source="統計力学" target="物理学" />
+    <edge source="統計力学" target="統計学" />
+    <edge source="統計力学" target="数理物理学" />
+    <edge source="ビジネススキル" target="技能" />
+    <edge source="ビジネススキル" target="学習" />
+    <edge source="ビジネススキル" target="労働" />
+    <edge source="ビジネススキル" target="ビジネス" />
+    <edge source="エネルギー" target="自然" />
+    <edge source="エネルギー" target="物理量" />
+    <edge source="エネルギー" target="資源" />
+    <edge source="公共経済学" target="経済学の分野" />
+    <edge source="公共経済学" target="経済政策" />
+    <edge source="公共経済学" target="腐敗防止法" />
+    <edge source="物理化学の現象" target="物理化学" />
+    <edge source="物理化学の現象" target="現象" />
+    <edge source="物理化学の現象" target="物理現象" />
+    <edge source="物理化学の現象" target="物質の性質" />
+    <edge source="標準" target="情報" />
+    <edge source="標準" target="形式科学" />
+    <edge source="不平等" target="平等主義" />
+    <edge source="不平等" target="社会問題" />
+    <edge source="不平等" target="社会経済学" />
+    <edge source="模様" target="デザイン" />
+    <edge source="模様" target="記号学" />
+    <edge source="模様" target="図" />
+    <edge source="模様" target="服飾" />
+    <edge source="マクロ解剖学" target="解剖学" />
+    <edge source="国の分類" target="国際関係" />
+    <edge source="国の分類" target="国" />
+    <edge source="地域別の文化" target="地域別に分類したカテゴリ" />
+    <edge source="地域別の文化" target="文化" />
+    <edge source="工学の分野" target="工学" />
+    <edge source="工学の分野" target="学問の分野" />
+    <edge source="20世紀哲学" target="20世紀" />
+    <edge source="20世紀哲学" target="哲学史" />
+    <edge source="20世紀哲学" target="思想史" />
+    <edge source="情報機器" target="情報技術" />
+    <edge source="情報機器" target="電気機器" />
+    <edge source="情報機器" target="情報処理" />
+    <edge source="データ管理" target="コンピュータのデータ" />
+    <edge source="データ管理" target="ITマネジメント" />
+    <edge source="データ管理" target="プロジェクトマネジメント" />
+    <edge source="データ管理" target="データ" />
+    <edge source="感覚" target="精神" />
+    <edge source="感覚" target="人体のしくみ" />
+    <edge source="感覚" target="主観的体験" />
+    <edge source="感覚" target="実験心理学" />
+    <edge source="感覚" target="認識論の概念" />
+    <edge source="感覚" target="知識源" />
+    <edge source="感覚" target="神経科学" />
+    <edge source="感覚" target="心理学の概念" />
+    <edge source="気候変動" target="地球史" />
+    <edge source="気候変動" target="グローバル化の問題" />
+    <edge source="気候変動" target="気候" />
+    <edge source="分野別に分類したカテゴリ" target="カテゴリを集めたカテゴリ_(分類指標別)" />
+    <edge source="未来学" target="未来" />
+    <edge source="未来学" target="学際領域" />
+    <edge source="未来学" target="時間" />
+    <edge source="日本の環境" target="各国の環境" />
+    <edge source="日本の環境" target="アジアの環境" />
+    <edge source="日本の環境" target="日本の社会" />
+    <edge source="交通_(方法別)" target="交通" />
+    <edge source="ソフトウェア" target="デジタル技術" />
+    <edge source="ソフトウェア" target="コンピュータ" />
+    <edge source="北アメリカ史" target="アメリカ大陸史" />
+    <edge source="北アメリカ史" target="北アメリカ" />
+    <edge source="場所別の環境" target="環境" />
+    <edge source="場所別の環境" target="場所別に分類したカテゴリ" />
+    <edge source="経済理論" target="社会理論" />
+    <edge source="経済理論" target="経済思想" />
+    <edge source="対外情緒" target="国際関係" />
+    <edge source="対外情緒" target="偏見" />
+    <edge source="対外情緒" target="差別" />
+    <edge source="比較言語学" target="比較" />
+    <edge source="比較言語学" target="歴史言語学" />
+    <edge source="比較言語学" target="系統学" />
+    <edge source="比較言語学" target="言語学" />
+    <edge source="日本の制度史" target="日本の政治史" />
+    <edge source="日本の制度史" target="日本のテーマ史" />
+    <edge source="出版" target="印刷" />
+    <edge source="出版" target="マスメディア" />
+    <edge source="出版" target="文書作成" />
+    <edge source="時代別に分類したカテゴリ" target="時代区分" />
+    <edge source="時代別に分類したカテゴリ" target="時間別に分類したカテゴリ" />
+    <edge source="元素" target="化学物質" />
+    <edge source="元素" target="自然" />
+    <edge source="科学的専門分野" target="学問の分野" />
+    <edge source="科学的専門分野" target="科学" />
+    <edge source="消費者" target="市場" />
+    <edge source="消費者" target="市民活動" />
+    <edge source="消費者" target="生活" />
+    <edge source="消費者" target="生活科学" />
+    <edge source="オカルト" target="サブカルチャー" />
+    <edge source="オカルト" target="超常現象" />
+    <edge source="工作" target="分野別の技術" />
+    <edge source="工作" target="趣味" />
+    <edge source="工作" target="DIY" />
+    <edge source="工作" target="動作" />
+    <edge source="不安障害" target="神経症性・ストレス関連及び身体表現性障害" />
+    <edge source="不安障害" target="不安" />
+    <edge source="不安障害" target="異常心理学" />
+    <edge source="不安障害" target="精神障害" />
+    <edge source="数理物理学" target="理論物理学" />
+    <edge source="数理物理学" target="応用数学" />
+    <edge source="健康政策" target="健康" />
+    <edge source="健康政策" target="社会政策" />
+    <edge source="マーケティング" target="経営学" />
+    <edge source="マーケティング" target="ビジネススキル" />
+    <edge source="マーケティング" target="ビジネス経済学" />
+    <edge source="マーケティング" target="ビジネス" />
+    <edge source="芸術運動" target="芸術の歴史" />
+    <edge source="芸術運動" target="美術史" />
+    <edge source="芸術運動" target="美学の理論" />
+    <edge source="芸術運動" target="ムーブメント" />
+    <edge source="日本" target="アジアの国" />
+    <edge source="日本" target="島国" />
+    <edge source="日本" target="東アジア" />
+    <edge source="年表" target="歴史" />
+    <edge source="年表" target="一覧" />
+    <edge source="年表" target="歴史の一覧" />
+    <edge source="年表" target="時間" />
+    <edge source="日本の差別" target="各国の差別" />
+    <edge source="日本の差別" target="日本の人権侵害" />
+    <edge source="書誌学" target="書物" />
+    <edge source="書誌学" target="図書館情報学" />
+    <edge source="政体別の国家" target="政体" />
+    <edge source="政体別の国家" target="国" />
+    <edge source="危機" target="人間行動学" />
+    <edge source="危機" target="社会概念" />
+    <edge source="宗教哲学" target="宗教学" />
+    <edge source="宗教哲学" target="分野別の哲学" />
+    <edge source="天文学" target="自然科学" />
+    <edge source="天文学" target="物理学" />
+    <edge source="天文学" target="理学" />
+    <edge source="経済思想の歴史" target="社会科学の歴史" />
+    <edge source="経済思想の歴史" target="経済思想" />
+    <edge source="経済思想の歴史" target="経済史" />
+    <edge source="経済思想の歴史" target="思想史" />
+    <edge source="動物" target="生物" />
+    <edge source="領土" target="行政区画の単位" />
+    <edge source="領土" target="国家" />
+    <edge source="領土" target="政治地理学" />
+    <edge source="領土" target="行政区画" />
+    <edge source="食科学" target="飲食" />
+    <edge source="食科学" target="生活科学" />
+    <edge source="美術史" target="文化史" />
+    <edge source="美術史" target="美術" />
+    <edge source="美術史" target="芸術の歴史" />
+    <edge source="古代史" target="時代区分" />
+    <edge source="オペレーションズリサーチ" target="経営学" />
+    <edge source="オペレーションズリサーチ" target="システム科学" />
+    <edge source="オペレーションズリサーチ" target="数理科学" />
+    <edge source="オペレーションズリサーチ" target="応用数学" />
+    <edge source="オペレーションズリサーチ" target="ビジネス" />
+    <edge source="軍事学" target="社会科学" />
+    <edge source="軍事学" target="応用科学" />
+    <edge source="軍事学" target="軍事" />
+    <edge source="中欧" target="バルカン" />
+    <edge source="中欧" target="ヨーロッパの地域" />
+    <edge source="中欧" target="中東欧" />
+    <edge source="問題" target="学問" />
+    <edge source="労働法" target="人事労務管理" />
+    <edge source="労働法" target="社会法" />
+    <edge source="労働法" target="労働" />
+    <edge source="労働法" target="労働研究" />
+    <edge source="日本の人権侵害" target="日本の人権" />
+    <edge source="日本の人権侵害" target="人権侵害" />
+    <edge source="オリンピック" target="国際競技大会" />
+    <edge source="オリンピック" target="スポーツの国際総合競技大会" />
+    <edge source="テーマ別の文化" target="文化" />
+    <edge source="テーマ別の文化" target="テーマ別に分類したカテゴリ" />
+    <edge source="天体" target="天文学" />
+    <edge source="天体" target="天体物理学" />
+    <edge source="天体" target="宇宙空間" />
+    <edge source="経済地理学" target="地理学の分野" />
+    <edge source="経済地理学" target="経済学の分野" />
+    <edge source="経済地理学" target="人文地理学" />
+    <edge source="宗教学" target="人文科学" />
+    <edge source="宗教学" target="宗教" />
+    <edge source="健康の決定要因" target="健康" />
+    <edge source="政治運動" target="社会運動" />
+    <edge source="政治運動" target="政治思想" />
+    <edge source="各国の地方区分" target="国別に分類したカテゴリ" />
+    <edge source="各国の地方区分" target="各国の行政" />
+    <edge source="各国の地方区分" target="各国の地理" />
+    <edge source="各国の地方区分" target="地方区分" />
+    <edge source="国" target="地方区分" />
+    <edge source="国" target="社会" />
+    <edge source="国" target="政治地理学" />
+    <edge source="時代区分" target="歴史" />
+    <edge source="時代区分" target="歴史学" />
+    <edge source="機械工作" target="工作" />
+    <edge source="機械工作" target="機械" />
+    <edge source="機械工作" target="製造" />
+    <edge source="機械工作" target="加工" />
+    <edge source="戦略" target="計画" />
+    <edge source="戦略" target="知識表現" />
+    <edge source="戦略" target="ゲーム理論" />
+    <edge source="コミュニティ" target="協働" />
+    <edge source="コミュニティ" target="文化地理学" />
+    <edge source="人種" target="色" />
+    <edge source="人種" target="皮膚" />
+    <edge source="人種" target="自然人類学" />
+    <edge source="調査" target="科学的方法" />
+    <edge source="スピリチュアリティ" target="オカルト" />
+    <edge source="スピリチュアリティ" target="サブカルチャー" />
+    <edge source="スピリチュアリティ" target="信念" />
+    <edge source="スピリチュアリティ" target="神秘主義" />
+    <edge source="スピリチュアリティ" target="人間行動学" />
+    <edge source="組合せ論" target="代数学" />
+    <edge source="組合せ論" target="離散数学" />
+    <edge source="北アメリカ" target="アメリカ" />
+    <edge source="北アメリカ" target="大陸" />
+    <edge source="紀年法" target="歴史学" />
+    <edge source="紀年法" target="暦" />
+    <edge source="語族" target="比較言語学" />
+    <edge source="語族" target="諸言語" />
+    <edge source="語族" target="言語学" />
+    <edge source="スポーツ競技" target="スポーツ" />
+    <edge source="大陸別の社会" target="大陸別に分類したカテゴリ" />
+    <edge source="大陸別の社会" target="場所別の社会" />
+    <edge source="社会政策" target="国内政策" />
+    <edge source="社会政策" target="公共政策" />
+    <edge source="地球" target="太陽系の惑星" />
+    <edge source="地球" target="自然" />
+    <edge source="非平衡熱力学" target="統計力学" />
+    <edge source="非平衡熱力学" target="熱力学" />
+    <edge source="民俗文化" target="伝統" />
+    <edge source="民俗文化" target="文化人類学" />
+    <edge source="地理" target="主要カテゴリ" />
+    <edge source="DIY" target="趣味" />
+    <edge source="DIY" target="生活" />
+    <edge source="DIY" target="建築" />
+    <edge source="文化運動" target="文化史" />
+    <edge source="文化運動" target="社会運動" />
+    <edge source="日本の歴史的地名" target="日本の歴史" />
+    <edge source="日本の歴史的地名" target="かつて存在した日本の地名" />
+    <edge source="機械" target="道具" />
+    <edge source="機械" target="物理システム" />
+    <edge source="機械" target="機械工学" />
+    <edge source="通信プロトコル" target="コンピュータネットワーク" />
+    <edge source="通信プロトコル" target="通信工学" />
+    <edge source="通信プロトコル" target="インタフェース" />
+    <edge source="通信プロトコル" target="電気通信" />
+    <edge source="島国" target="海洋国家" />
+    <edge source="島国" target="国の分類" />
+    <edge source="島国" target="島" />
+    <edge source="ドイツのナショナリズム" target="ドイツの文化" />
+    <edge source="ドイツのナショナリズム" target="ドイツの歴史" />
+    <edge source="ドイツのナショナリズム" target="ドイツの政治" />
+    <edge source="ドイツのナショナリズム" target="各国のナショナリズム" />
+    <edge source="地名" target="名前" />
+    <edge source="地名" target="地理" />
+    <edge source="地名" target="地域" />
+    <edge source="各国のメディア" target="国別に分類したカテゴリ" />
+    <edge source="各国のメディア" target="各国の文化" />
+    <edge source="各国のメディア" target="各国の社会" />
+    <edge source="各国のメディア" target="マスメディア" />
+    <edge source="生活" target="社会" />
+    <edge source="生活" target="人間" />
+    <edge source="2千年紀" target="千年紀" />
+    <edge source="2千年紀" target="年表" />
+    <edge source="認識論" target="理論" />
+    <edge source="認識論" target="思考" />
+    <edge source="認識論" target="哲学の分野" />
+    <edge source="構造物" target="技術" />
+    <edge source="構造物" target="造船" />
+    <edge source="構造物" target="建設" />
+    <edge source="脳神経解剖学" target="解剖学" />
+    <edge source="脳神経解剖学" target="神経" />
+    <edge source="脳神経解剖学" target="生理学" />
+    <edge source="脳神経解剖学" target="神経解剖学" />
+    <edge source="政治文化" target="文化" />
+    <edge source="政治文化" target="政治" />
+    <edge source="数" target="数学" />
+    <edge source="数" target="情報" />
+    <edge source="物性物理学" target="物理学" />
+    <edge source="物性物理学" target="物質科学" />
+    <edge source="筆記" target="記録" />
+    <edge source="筆記" target="文書作成" />
+    <edge source="脳" target="脳神経解剖学" />
+    <edge source="脳" target="頭" />
+    <edge source="脳" target="神経" />
+    <edge source="脳" target="解剖学" />
+    <edge source="脳" target="生理学" />
+    <edge source="脳" target="神経科学" />
+    <edge source="腐敗防止法" target="倫理" />
+    <edge source="腐敗防止法" target="腐敗" />
+    <edge source="土木" target="建設" />
+    <edge source="語" target="形態論" />
+    <edge source="語" target="語彙論" />
+    <edge source="熱力学" target="物理化学" />
+    <edge source="熱力学" target="機械工学" />
+    <edge source="熱力学" target="化学" />
+    <edge source="熱力学" target="熱" />
+    <edge source="熱力学" target="物理学" />
+    <edge source="熱力学" target="力学系" />
+    <edge source="分子" target="物質" />
+    <edge source="固有名詞学" target="名詞" />
+    <edge source="固有名詞学" target="語源学" />
+    <edge source="固有名詞学" target="言語学" />
+    <edge source="法哲学" target="基礎法学" />
+    <edge source="法哲学" target="分野別の哲学" />
+    <edge source="各国の社会" target="国別に分類したカテゴリ" />
+    <edge source="各国の社会" target="場所別の社会" />
+    <edge source="末梢神経系" target="神経" />
+    <edge source="医療経済学" target="医療" />
+    <edge source="医療経済学" target="経済学の分野" />
+    <edge source="気候因子" target="気候" />
+    <edge source="日本の地方区分" target="アジアの地方区分" />
+    <edge source="日本の地方区分" target="日本の地理" />
+    <edge source="日本の地方区分" target="各国の地方区分" />
+    <edge source="自然人類学" target="生物学" />
+    <edge source="自然人類学" target="人類学" />
+    <edge source="組織_(生物)" target="人体のしくみ" />
+    <edge source="組織_(生物)" target="生理学" />
+    <edge source="組織_(生物)" target="組織学" />
+    <edge source="人間工学" target="人間科学" />
+    <edge source="人間工学" target="工学の分野" />
+    <edge source="人間工学" target="人間とコンピュータの相互作用" />
+    <edge source="人間工学" target="人体" />
+    <edge source="偏見" target="カルチュラル・スタディーズ" />
+    <edge source="偏見" target="認知科学" />
+    <edge source="偏見" target="価値観" />
+    <edge source="偏見" target="思考" />
+    <edge source="偏見" target="社会心理学" />
+    <edge source="比較法学" target="基礎法学" />
+    <edge source="比較法学" target="比較" />
+    <edge source="スポーツの国際総合競技大会" target="国際スポーツ競技大会" />
+    <edge source="スポーツの国際総合競技大会" target="総合競技大会" />
+    <edge source="場所" target="環境" />
+    <edge source="場所" target="地理" />
+    <edge source="一覧" target="総記" />
+    <edge source="メンタルヘルス" target="健康" />
+    <edge source="メンタルヘルス" target="公衆衛生" />
+    <edge source="メンタルヘルス" target="心" />
+    <edge source="場所別の民族" target="民族" />
+    <edge source="場所別の民族" target="場所別に分類したカテゴリ" />
+    <edge source="行動科学" target="人間科学" />
+    <edge source="行動科学" target="行動" />
+    <edge source="行動科学" target="科学的専門分野" />
+    <edge source="実解析" target="解析学" />
+    <edge source="政治的右翼" target="政治運動" />
+    <edge source="政治的右翼" target="政治的スペクトル" />
+    <edge source="教育施設" target="施設" />
+    <edge source="教育施設" target="教育機関" />
+    <edge source="アメリカ合衆国史の時代区分" target="各国史の時代区分" />
+    <edge source="アメリカ合衆国史の時代区分" target="アメリカ合衆国の歴史" />
+    <edge source="各国のカテゴリを集めたカテゴリ" target="国" />
+    <edge source="各国のカテゴリを集めたカテゴリ" target="場所別に分類したカテゴリ" />
+    <edge source="紙製品" target="紙" />
+    <edge source="農学" target="農業" />
+    <edge source="農学" target="生命科学" />
+    <edge source="農学" target="応用科学" />
+    <edge source="農学" target="食科学" />
+    <edge source="死因" target="死" />
+    <edge source="物理現象" target="現象" />
+    <edge source="物理現象" target="物理学" />
+    <edge source="カルチュラル・スタディーズ" target="文化" />
+    <edge source="カルチュラル・スタディーズ" target="批判理論" />
+    <edge source="カルチュラル・スタディーズ" target="社会学の分野" />
+    <edge source="政策" target="決定理論" />
+    <edge source="政策" target="行政" />
+    <edge source="政策" target="政治" />
+    <edge source="文化史" target="文化" />
+    <edge source="文化史" target="テーマ史" />
+    <edge source="文化史" target="カルチュラル・スタディーズ" />
+    <edge source="文化史" target="文化人類学" />
+    <edge source="文化史" target="歴史の分野" />
+    <edge source="順番" target="知識" />
+    <edge source="人体" target="解剖学" />
+    <edge source="人体" target="霊長類解剖学" />
+    <edge source="人体" target="人間" />
+    <edge source="コンピュータのデータ" target="情報処理" />
+    <edge source="コンピュータのデータ" target="コンピュータの仕組み" />
+    <edge source="コンピュータのデータ" target="コンピュータ" />
+    <edge source="コンピュータのデータ" target="データ" />
+    <edge source="ゲルマン語派" target="インド・ヨーロッパ語族" />
+    <edge source="ゲルマン語派" target="ゲルマン人" />
+    <edge source="各国の差別" target="国別に分類したカテゴリ" />
+    <edge source="各国の差別" target="各国の人権" />
+    <edge source="各国の差別" target="差別" />
+    <edge source="パターン" target="模様" />
+    <edge source="パターン" target="装飾" />
+    <edge source="パターン" target="グラフィックデザイン" />
+    <edge source="未来" target="ポストモダニズム" />
+    <edge source="未来" target="時間" />
+    <edge source="東京都" target="夏季オリンピックの開催都市" />
+    <edge source="東京都" target="関東地方" />
+    <edge source="東京都" target="東京都" />
+    <edge source="東京都" target="日本の都道府県" />
+    <edge source="東京都" target="アジアの首都" />
+    <edge source="社会学" target="社会科学" />
+    <edge source="中東欧" target="ヨーロッパの地域" />
+    <edge source="政体" target="主権" />
+    <edge source="政体" target="政治システム" />
+    <edge source="政体" target="国の分類" />
+    <edge source="平等主義" target="社会思想" />
+    <edge source="平等主義" target="価値観" />
+    <edge source="平等主義" target="政治文化" />
+    <edge source="平等主義" target="政治理論" />
+    <edge source="平等主義" target="倫理学の理論" />
+    <edge source="平等主義" target="厚生経済学" />
+    <edge source="カテゴリ関連" target="総記" />
+    <edge source="社会的経済" target="経済システム" />
+    <edge source="社会的経済" target="文化経済学" />
+    <edge source="大陸別に分類したカテゴリ" target="大陸" />
+    <edge source="大陸別に分類したカテゴリ" target="場所別に分類したカテゴリ" />
+    <edge source="病気" target="医療" />
+    <edge source="病気" target="健康" />
+    <edge source="病気" target="死因" />
+    <edge source="病気" target="医学" />
+    <edge source="病気" target="歯学" />
+    <edge source="消費主義" target="経済思想" />
+    <edge source="消費主義" target="消費者" />
+    <edge source="社会集団" target="社会システム" />
+    <edge source="社会集団" target="協働" />
+    <edge source="マスメディア" target="娯楽" />
+    <edge source="マスメディア" target="情報通信業" />
+    <edge source="マスメディア" target="世論" />
+    <edge source="グラフィックデザイン" target="デザイン" />
+    <edge source="グラフィックデザイン" target="広告" />
+    <edge source="グラフィックデザイン" target="画像処理" />
+    <edge source="グラフィックデザイン" target="マスメディア" />
+    <edge source="グラフィックデザイン" target="美術のジャンル" />
+    <edge source="アジア史" target="大陸別の歴史" />
+    <edge source="アジア史" target="アジア" />
+    <edge source="市場" target="社会制度" />
+    <edge source="市場" target="商業施設" />
+    <edge source="市場" target="流通" />
+    <edge source="市場" target="資本主義" />
+    <edge source="法学" target="社会科学" />
+    <edge source="法学" target="法" />
+    <edge source="貸与" target="文化" />
+    <edge source="貸与" target="経済" />
+    <edge source="諸言語" target="言語" />
+    <edge source="東アジア" target="アジアの地域" />
+    <edge source="広告" target="販売の手法" />
+    <edge source="広告" target="マーケティング" />
+    <edge source="広告" target="産業" />
+    <edge source="広告" target="マスメディア" />
+    <edge source="ITマネジメント" target="情報技術" />
+    <edge source="ITマネジメント" target="経営学" />
+    <edge source="ITマネジメント" target="プロジェクトマネジメント" />
+    <edge source="電気機器" target="電気" />
+    <edge source="電気機器" target="機器" />
+    <edge source="中等教育" target="青年" />
+    <edge source="中等教育" target="教育段階" />
+    <edge source="夏季オリンピック" target="オリンピック" />
+    <edge source="超常現象" target="現象" />
+    <edge source="超常現象" target="サブカルチャー" />
+    <edge source="宗教" target="社会制度" />
+    <edge source="宗教" target="文化" />
+    <edge source="宗教" target="世界観" />
+    <edge source="文化人類学" target="文化" />
+    <edge source="文化人類学" target="人類学" />
+    <edge source="文化人類学" target="社会科学" />
+    <edge source="化学工学" target="工学の分野" />
+    <edge source="化学工学" target="物質科学" />
+    <edge source="化学工学" target="化学" />
+    <edge source="アジアの政治" target="大陸別の政治" />
+    <edge source="アジアの政治" target="アジア" />
+    <edge source="アジアの政治" target="各国の政治" />
+    <edge source="19世紀のヨーロッパ" target="19世紀" />
+    <edge source="19世紀のヨーロッパ" target="各世紀のヨーロッパ" />
+    <edge source="形而上学" target="哲学の分野" />
+    <edge source="ロビー団体" target="政治団体" />
+    <edge source="イギリスの社会" target="ヨーロッパの社会" />
+    <edge source="イギリスの社会" target="各国の社会" />
+    <edge source="イギリスの社会" target="イギリス" />
+    <edge source="技術革新" target="技術史" />
+    <edge source="技術革新" target="創造性" />
+    <edge source="各国の地方自治" target="国別に分類したカテゴリ" />
+    <edge source="各国の地方自治" target="地方自治" />
+    <edge source="各国の地方自治" target="各国の政治" />
+    <edge source="理論" target="批判的思考" />
+    <edge source="理論" target="科学" />
+    <edge source="大陸別の各世紀" target="大陸別の歴史" />
+    <edge source="大陸別の各世紀" target="世紀別に分類したカテゴリ" />
+    <edge source="大陸別の各世紀" target="大陸別に分類したカテゴリ" />
+    <edge source="地理学の分野" target="学問の分野" />
+    <edge source="地理学の分野" target="地理学" />
+    <edge source="日本のナショナリズム" target="日本の政治" />
+    <edge source="日本のナショナリズム" target="日本の思想史" />
+    <edge source="日本のナショナリズム" target="日本の人種・民族問題" />
+    <edge source="日本のナショナリズム" target="各国のナショナリズム" />
+    <edge source="君主制" target="政治システム" />
+    <edge source="君主制" target="政体" />
+    <edge source="君主制" target="寡頭制" />
+    <edge source="物理学の概念" target="物理学" />
+    <edge source="物理学の概念" target="分野別の概念" />
+    <edge source="地域" target="地理" />
+    <edge source="指標" target="統計" />
+    <edge source="指標" target="調査" />
+    <edge source="指標" target="情報" />
+    <edge source="原子" target="物質" />
+    <edge source="認知心理学" target="心理学の分野" />
+    <edge source="認知心理学" target="認知科学" />
+    <edge source="批判理論" target="社会思想" />
+    <edge source="批判理論" target="社会運動史" />
+    <edge source="批判理論" target="ポストモダニズム" />
+    <edge source="批判理論" target="思想史" />
+    <edge source="批判理論" target="哲学の学派" />
+    <edge source="批判理論" target="哲学のムーブメント" />
+    <edge source="批判理論" target="政治思想" />
+    <edge source="批判理論" target="大陸哲学" />
+    <edge source="顔" target="頭" />
+    <edge source="言語圏" target="言語地理学" />
+    <edge source="言語圏" target="文化地理学" />
+    <edge source="言語圏" target="文化圏" />
+    <edge source="言語圏" target="地域別の言語" />
+    <edge source="民族問題" target="国際関係" />
+    <edge source="民族問題" target="アイデンティティ・ポリティクス" />
+    <edge source="民族問題" target="民族" />
+    <edge source="民族問題" target="政治問題" />
+    <edge source="趣味" target="文化" />
+    <edge source="趣味" target="生活" />
+    <edge source="趣味" target="価値観" />
+    <edge source="趣味" target="技能" />
+    <edge source="日本の地方自治の歴史" target="日本の政治史" />
+    <edge source="日本の地方自治の歴史" target="日本の制度史" />
+    <edge source="日本の地方自治の歴史" target="日本の地域史" />
+    <edge source="日本の地方自治の歴史" target="政治地理学" />
+    <edge source="日本の地方自治の歴史" target="日本の地方自治" />
+    <edge source="自然哲学" target="中世哲学" />
+    <edge source="自然哲学" target="環境哲学" />
+    <edge source="自然哲学" target="科学史" />
+    <edge source="自然哲学" target="哲学史" />
+    <edge source="自然哲学" target="古代哲学" />
+    <edge source="資本主義" target="経済理論" />
+    <edge source="資本主義" target="個人主義" />
+    <edge source="資本主義" target="経済システム" />
+    <edge source="資本主義" target="政治理論" />
+    <edge source="資本主義" target="経済思想の歴史" />
+    <edge source="哲学史" target="哲学" />
+    <edge source="哲学史" target="西洋文化" />
+    <edge source="哲学史" target="思想史" />
+    <edge source="サブカルチャー" target="大衆文化" />
+    <edge source="サブカルチャー" target="ポストモダニズム" />
+    <edge source="サブカルチャー" target="カルチュラル・スタディーズ" />
+    <edge source="政府" target="社会制度" />
+    <edge source="政府" target="国家" />
+    <edge source="政府" target="政治" />
+    <edge source="政府" target="組織_(団体)" />
+    <edge source="文化地理学" target="文化" />
+    <edge source="文化地理学" target="人文地理学" />
+    <edge source="国際関係史" target="政治史" />
+    <edge source="国際関係史" target="国際関係" />
+    <edge source="不安" target="感情" />
+    <edge source="不安" target="異常心理学" />
+    <edge source="教育に関する組織" target="教育" />
+    <edge source="教育に関する組織" target="分野別の組織" />
+    <edge source="首都" target="各国の都市" />
+    <edge source="首都" target="政治システム" />
+    <edge source="首都" target="都市" />
+    <edge source="健康科学" target="健康" />
+    <edge source="健康科学" target="応用科学" />
+    <edge source="霊長類解剖学" target="サル目" />
+    <edge source="霊長類解剖学" target="哺乳動物の解剖学" />
+    <edge source="日本の各地域ブロックのカテゴリ" target="日本のカテゴリを集めたカテゴリ" />
+    <edge source="日本の各地域ブロックのカテゴリ" target="日本の地域ブロック" />
+    <edge source="経済システム" target="社会システム" />
+    <edge source="経済システム" target="経済" />
+    <edge source="サンディカリスム" target="社会運動" />
+    <edge source="サンディカリスム" target="労働組合" />
+    <edge source="サンディカリスム" target="社会主義" />
+    <edge source="サンディカリスム" target="労働運動" />
+    <edge source="社会的不平等" target="不平等" />
+    <edge source="社会的不平等" target="社会経済学" />
+    <edge source="社会的不平等" target="経済問題" />
+    <edge source="社会的不平等" target="ヒエラルキー" />
+    <edge source="社会的不平等" target="社会倫理学" />
+    <edge source="社会的不平等" target="政治問題" />
+    <edge source="基礎法学" target="法学" />
+    <edge source="カテゴリを集めたカテゴリ" target="カテゴリ関連" />
+    <edge source="各国の文化" target="国別に分類したカテゴリ" />
+    <edge source="各国の文化" target="地域別の文化" />
+    <edge source="数論" target="数学" />
+    <edge source="数論" target="代数学" />
+    <edge source="災害" target="現象" />
+    <edge source="災害" target="死因" />
+    <edge source="災害" target="事件" />
+    <edge source="災害" target="危機" />
+    <edge source="災害" target="危機管理" />
+    <edge source="暴力" target="倫理問題" />
+    <edge source="暴力" target="政治理論" />
+    <edge source="暴力" target="人間行動学" />
+    <edge source="暴力" target="人権侵害" />
+    <edge source="暴力" target="治安問題" />
+    <edge source="暴力" target="コミュニケーション" />
+    <edge source="建築意匠" target="建築" />
+    <edge source="建築意匠" target="設計" />
+    <edge source="地方自治" target="政治" />
+    <edge source="地方自治" target="行政区画" />
+    <edge source="一般システム理論" target="システム科学" />
+    <edge source="一般システム理論" target="システム" />
+    <edge source="一般システム理論" target="学際領域" />
+    <edge source="一般システム理論" target="科学哲学の理論" />
+    <edge source="論理学" target="価値論" />
+    <edge source="論理学" target="形式科学" />
+    <edge source="論理学" target="哲学の分野" />
+    <edge source="社会史" target="テーマ史" />
+    <edge source="社会史" target="社会" />
+    <edge source="社会史" target="歴史の分野" />
+    <edge source="システム" target="技術" />
+    <edge source="システム" target="自然" />
+    <edge source="スポーツ競技大会" target="スポーツ" />
+    <edge source="スポーツ競技大会" target="競技会" />
+    <edge source="スポーツ競技大会" target="勝利" />
+    <edge source="スポーツ競技大会" target="スポーツ競技" />
+    <edge source="スポーツ競技大会" target="スポーツに関するイベント" />
+    <edge source="ドイツ語圏" target="ドイツ語" />
+    <edge source="ドイツ語圏" target="言語圏" />
+    <edge source="ビジネス" target="経済" />
+    <edge source="西欧" target="ヨーロッパの地域" />
+    <edge source="自然地理学" target="地理学の分野" />
+    <edge source="自然地理学" target="地球科学" />
+    <edge source="社会学の分野" target="学問の分野" />
+    <edge source="社会学の分野" target="社会学" />
+    <edge source="印刷物" target="紙製品" />
+    <edge source="印刷物" target="印刷" />
+    <edge source="大気" target="地球" />
+    <edge source="大気" target="気体" />
+    <edge source="大気" target="気象" />
+    <edge source="大気" target="場所" />
+    <edge source="地球温暖化" target="地球" />
+    <edge source="地球温暖化" target="環境問題" />
+    <edge source="地球温暖化" target="グローバル化の問題" />
+    <edge source="地球温暖化" target="気候変動" />
+    <edge source="アジアの環境" target="大陸別の環境" />
+    <edge source="アジアの環境" target="アジアの地理" />
+    <edge source="系統学" target="比較言語学" />
+    <edge source="系統学" target="分類学" />
+    <edge source="系統学" target="生物学の分野" />
+    <edge source="系統学" target="遺伝学" />
+    <edge source="系統学" target="生物学" />
+    <edge source="各国の公法" target="公法" />
+    <edge source="各国の公法" target="各国の分野別の法" />
+    <edge source="労働組合" target="非営利組織" />
+    <edge source="労働組合" target="労働運動" />
+    <edge source="労働組合" target="労働法" />
+    <edge source="労働組合" target="労働関連の組織" />
+    <edge source="労働組合" target="ロビー団体" />
+    <edge source="運動_(物理学)" target="力_(自然科学)" />
+    <edge source="運動_(物理学)" target="物理学" />
+    <edge source="運動_(物理学)" target="物理現象" />
+    <edge source="運動_(物理学)" target="時間" />
+    <edge source="歴史" target="主要カテゴリ" />
+    <edge source="各国の都市" target="国別に分類したカテゴリ" />
+    <edge source="各国の都市" target="都市" />
+    <edge source="アジアの文化" target="アジア" />
+    <edge source="アジアの文化" target="大陸別の文化" />
+    <edge source="太陽系" target="天文学" />
+    <edge source="太陽系" target="惑星系" />
+    <edge source="娯楽" target="文化" />
+    <edge source="娯楽" target="生活" />
+    <edge source="批判的思考" target="哲学的論理学" />
+    <edge source="批判的思考" target="学習" />
+    <edge source="批判的思考" target="思考" />
+    <edge source="各国の分野別の法" target="国別に分類したカテゴリ" />
+    <edge source="各国の分野別の法" target="各国の法" />
+    <edge source="各国の分野別の法" target="分野別の法" />
+    <edge source="生物学" target="自然史" />
+    <edge source="生物学" target="生命" />
+    <edge source="生物学" target="生命科学" />
+    <edge source="生物学" target="自然科学" />
+    <edge source="各国の経済" target="国別に分類したカテゴリ" />
+    <edge source="各国の経済" target="各国の社会" />
+    <edge source="各国の経済" target="経済" />
+    <edge source="各国の経済" target="地域別の経済" />
+    <edge source="西洋文化" target="文化圏" />
+    <edge source="西洋文化" target="地域別の文化" />
+    <edge source="水素" target="燃料" />
+    <edge source="水素" target="元素" />
+    <edge source="水素" target="非金属元素" />
+    <edge source="社会科学の歴史" target="社会科学" />
+    <edge source="地方区分" target="政治地理学" />
+    <edge source="地方区分" target="地域別の地理" />
+    <edge source="東アジアの政治" target="アジアの政治" />
+    <edge source="倫理" target="思想" />
+    <edge source="倫理" target="哲学の分野" />
+    <edge source="倫理問題" target="応用倫理学" />
+    <edge source="倫理問題" target="倫理" />
+    <edge source="倫理問題" target="社会問題" />
+    <edge source="軍事" target="政治" />
+    <edge source="軍事" target="社会" />
+    <edge source="軍事" target="安全保障" />
+    <edge source="大衆文化" target="文化史" />
+    <edge source="大衆文化" target="文化" />
+    <edge source="ヨーロッパの社会" target="ヨーロッパ" />
+    <edge source="ヨーロッパの社会" target="ヨーロッパ研究" />
+    <edge source="ヨーロッパの社会" target="大陸別の社会" />
+    <edge source="生活科学" target="生活" />
+    <edge source="生活科学" target="応用科学" />
+    <edge source="ファッション" target="服飾" />
+    <edge source="ファッション" target="風俗" />
+    <edge source="自己" target="心" />
+    <edge source="自己" target="心の形而上学" />
+    <edge source="自己" target="形而上学の概念" />
+    <edge source="分類" target="知識" />
+    <edge source="分類" target="図書館情報学" />
+    <edge source="市民活動" target="社会運動" />
+    <edge source="市民活動" target="人権" />
+    <edge source="経済開発" target="開発" />
+    <edge source="フードビジネス" target="飲食" />
+    <edge source="フードビジネス" target="ビジネス" />
+    <edge source="解析学" target="数学" />
+    <edge source="社会倫理学" target="社会思想" />
+    <edge source="社会倫理学" target="応用倫理学" />
+    <edge source="社会倫理学" target="社会学の分野" />
+    <edge source="形態素" target="形態論" />
+    <edge source="形態素" target="文法" />
+    <edge source="人の一生" target="テーマ史" />
+    <edge source="人の一生" target="人間" />
+    <edge source="アメリカ合衆国の経済_(1990年-)" target="アメリカ合衆国の歴史_(現代)" />
+    <edge source="アメリカ合衆国の経済_(1990年-)" target="アメリカ合衆国の経済史" />
+    <edge source="政治問題" target="政治" />
+    <edge source="政治問題" target="社会問題" />
+    <edge source="日本の政治" target="東アジアの政治" />
+    <edge source="日本の政治" target="日本の社会" />
+    <edge source="日本の政治" target="各国の政治" />
+    <edge source="中世哲学" target="哲学史" />
+    <edge source="中世哲学" target="中世ヨーロッパの文化" />
+    <edge source="経済政策" target="マクロ経済学" />
+    <edge source="経済政策" target="公共政策" />
+    <edge source="経済政策" target="経済" />
+    <edge source="民族学" target="民族" />
+    <edge source="民族学" target="文化人類学" />
+    <edge source="科学論" target="社会" />
+    <edge source="科学論" target="社会における科学" />
+    <edge source="科学論" target="科学" />
+    <edge source="品質" target="工学" />
+    <edge source="品質" target="製造" />
+    <edge source="分野別の概念" target="理論" />
+    <edge source="分野別の概念" target="分野別に分類したカテゴリ" />
+    <edge source="経済" target="社会" />
+    <edge source="行政作用法" target="腐敗防止法" />
+    <edge source="行政作用法" target="行政法" />
+    <edge source="地形" target="地理" />
+    <edge source="アメリカ合衆国" target="北アメリカの国" />
+    <edge source="アメリカ合衆国" target="ギネス世界記録" />
+    <edge source="公害" target="環境問題" />
+    <edge source="公害" target="健康の決定要因" />
+    <edge source="公害" target="健康問題" />
+    <edge source="公害" target="人的災害" />
+    <edge source="文献学" target="人文科学" />
+    <edge source="反独感情" target="外国人嫌悪" />
+    <edge source="反独感情" target="ドイツの国際関係" />
+    <edge source="反独感情" target="ドイツのナショナリズム" />
+    <edge source="反独感情" target="対外情緒" />
+    <edge source="問題解決" target="問題" />
+    <edge source="問題解決" target="技術革新" />
+    <edge source="問題解決" target="批判的思考" />
+    <edge source="問題解決" target="思考" />
+    <edge source="問題解決" target="認知心理学" />
+    <edge source="問題解決" target="創造性" />
+    <edge source="日本の思想史" target="思想史" />
+    <edge source="日本の思想史" target="日本のテーマ史" />
+    <edge source="環境哲学" target="環境ヒューマニティー" />
+    <edge source="環境哲学" target="環境思想" />
+    <edge source="環境哲学" target="倫理" />
+    <edge source="環境哲学" target="分野別の哲学" />
+    <edge source="物質科学" target="自然科学" />
+    <edge source="素粒子" target="物質" />
+    <edge source="素粒子" target="素粒子物理学" />
+    <edge source="素粒子" target="亜原子粒子" />
+    <edge source="素粒子" target="宇宙論・宇宙物理学" />
+    <edge source="文" target="文学" />
+    <edge source="文" target="言語" />
+    <edge source="出版物" target="製品" />
+    <edge source="出版物" target="出版" />
+    <edge source="出版物" target="印刷物" />
+    <edge source="家庭" target="生活" />
+    <edge source="家庭" target="文化人類学" />
+    <edge source="労働研究" target="学際領域" />
+    <edge source="労働研究" target="労働" />
+    <edge source="労働研究" target="社会学の分野" />
+    <edge source="人間行動学" target="人間科学" />
+    <edge source="人間行動学" target="行動科学" />
+    <edge source="自己の概念" target="哲学の概念" />
+    <edge source="自己の概念" target="自己" />
+    <edge source="物質" target="物性物理学" />
+    <edge source="物質" target="自然" />
+    <edge source="物質" target="化学" />
+    <edge source="政治理論" target="社会思想" />
+    <edge source="政治理論" target="政治思想" />
+    <edge source="政治理論" target="理論" />
+    <edge source="統計" target="調査" />
+    <edge source="統計" target="社会" />
+    <edge source="統計" target="統計学" />
+    <edge source="ムーブメント" target="社会" />
+    <edge source="スポーツ" target="趣味" />
+    <edge source="スポーツ" target="健康" />
+    <edge source="スポーツ" target="レジャー" />
+    <edge source="スポーツ" target="娯楽" />
+    <edge source="大陸哲学" target="20世紀哲学" />
+    <edge source="大陸哲学" target="西洋哲学" />
+    <edge source="大陸哲学" target="哲学的伝統" />
+    <edge source="電気通信" target="電気" />
+    <edge source="電気通信" target="通信" />
+    <edge source="社会" target="主要カテゴリ" />
+    <edge source="北アメリカの地理" target="大陸別の地理" />
+    <edge source="北アメリカの地理" target="北アメリカ" />
+    <edge source="レプトン" target="素粒子" />
+    <edge source="レプトン" target="フェルミ粒子" />
+    <edge source="国際交流" target="人間の移動" />
+    <edge source="国際交流" target="国際関係" />
+    <edge source="国際交流" target="コミュニケーション" />
+    <edge source="認知科学" target="心理学の分野" />
+    <edge source="認知科学" target="感覚" />
+    <edge source="認知科学" target="科学的専門分野" />
+    <edge source="人文科学" target="文化" />
+    <edge source="人文科学" target="学問の分野" />
+    <edge source="人文科学" target="科学的専門分野" />
+    <edge source="家事" target="生活科学" />
+    <edge source="家事" target="生活" />
+    <edge source="家事" target="家庭" />
+    <edge source="経営戦略論" target="経営学" />
+    <edge source="経営戦略論" target="戦略" />
+    <edge source="安全" target="技術" />
+    <edge source="安全" target="品質" />
+    <edge source="各世紀のアジア" target="大陸別の各世紀" />
+    <edge source="各世紀のアジア" target="アジア史_(時代別)" />
+    <edge source="数学" target="数理科学" />
+    <edge source="数学" target="形式科学" />
+    <edge source="数学" target="理学" />
+    <edge source="知識" target="思考" />
+    <edge source="知識" target="学問" />
+    <edge source="速度" target="物理量" />
+    <edge source="速度" target="運動_(物理学)" />
+    <edge source="アジアの地方区分" target="大陸別の地方区分" />
+    <edge source="アジアの地方区分" target="アジアの地理" />
+    <edge source="経済思想" target="社会思想" />
+    <edge source="経済思想" target="イデオロギー" />
+    <edge source="経済思想" target="経済" />
+    <edge source="行政区画" target="行政" />
+    <edge source="行政区画" target="政治地理学" />
+    <edge source="行政区画" target="国境" />
+    <edge source="固体" target="物質の相" />
+    <edge source="固体" target="凝縮系" />
+    <edge source="公共サービス" target="社会制度" />
+    <edge source="公共サービス" target="国内政策" />
+    <edge source="公共サービス" target="サービス業" />
+    <edge source="元素別の化合物分類" target="化学物質" />
+    <edge source="元素別の化合物分類" target="元素" />
+    <edge source="元素別の化合物分類" target="化合物" />
+    <edge source="日本の法_(分野別)" target="日本の法" />
+    <edge source="日本の法_(分野別)" target="分野別の法" />
+    <edge source="社会運動史" target="社会運動" />
+    <edge source="社会運動史" target="社会史" />
+    <edge source="神経" target="器官" />
+    <edge source="神経" target="精神医学" />
+    <edge source="神経" target="人体のしくみ" />
+    <edge source="神経" target="組織_(生物)" />
+    <edge source="神経" target="生理学" />
+    <edge source="神経" target="解剖学" />
+    <edge source="帝国主義" target="20世紀の経済史" />
+    <edge source="帝国主義" target="グローバリゼーション" />
+    <edge source="帝国主義" target="政治地理学" />
+    <edge source="帝国主義" target="20世紀の世界史" />
+    <edge source="帝国主義" target="国際関係史" />
+    <edge source="帝国主義" target="20世紀のヨーロッパ" />
+    <edge source="帝国主義" target="19世紀のヨーロッパ" />
+    <edge source="帝国主義" target="外交政策" />
+    <edge source="帝国主義" target="政治思想" />
+    <edge source="帝国主義" target="19世紀" />
+    <edge source="帝国主義" target="経済史" />
+    <edge source="家電機器" target="電気機器" />
+    <edge source="家電機器" target="製品" />
+    <edge source="家電機器" target="家庭" />
+    <edge source="家電機器" target="日用品" />
+    <edge source="凝縮系" target="物性物理学" />
+    <edge source="凝縮系" target="物質の相" />
+    <edge source="凝縮系" target="物質" />
+    <edge source="科学と文化" target="文化" />
+    <edge source="科学と文化" target="社会における科学" />
+    <edge source="労働運動" target="社会運動" />
+    <edge source="労働運動" target="社会主義" />
+    <edge source="労働運動" target="労働" />
+    <edge source="労働運動" target="労働社会学" />
+    <edge source="本州" target="日本の地域" />
+    <edge source="本州" target="内地" />
+    <edge source="映画" target="芸術" />
+    <edge source="映画" target="娯楽" />
+    <edge source="映画" target="マスメディア" />
+    <edge source="ヨーロッパの文化史" target="文化史" />
+    <edge source="ヨーロッパの文化史" target="ヨーロッパの文化" />
+    <edge source="ヨーロッパの文化史" target="ヨーロッパ史" />
+    <edge source="形式科学" target="科学的専門分野" />
+    <edge source="倫理原則" target="原理" />
+    <edge source="倫理原則" target="倫理学の概念" />
+    <edge source="質量" target="物理量" />
+    <edge source="史学史" target="文化史" />
+    <edge source="史学史" target="思想史" />
+    <edge source="史学史" target="歴史学" />
+    <edge source="外交" target="政治" />
+    <edge source="外交" target="国際関係" />
+    <edge source="外交" target="行政" />
+    <edge source="プレートテクトニクス" target="地球史" />
+    <edge source="プレートテクトニクス" target="地球物理学" />
+    <edge source="プレートテクトニクス" target="地球科学" />
+    <edge source="プレートテクトニクス" target="構造地質学" />
+    <edge source="北アメリカの社会" target="北アメリカ" />
+    <edge source="北アメリカの社会" target="大陸別の社会" />
+    <edge source="人体のしくみ" target="医学" />
+    <edge source="人体のしくみ" target="人体" />
+    <edge source="年齢" target="人の一生" />
+    <edge source="年齢" target="時間" />
+    <edge source="環境問題" target="環境" />
+    <edge source="環境問題" target="自然保護" />
+    <edge source="環境問題" target="グローバル化の問題" />
+    <edge source="環境問題" target="社会問題" />
+    <edge source="環境問題" target="政治問題" />
+    <edge source="インド・ヨーロッパ語族" target="ヨーロッパの言語" />
+    <edge source="インド・ヨーロッパ語族" target="アジアの言語" />
+    <edge source="インド・ヨーロッパ語族" target="語族" />
+    <edge source="20世紀のアジア" target="各世紀のアジア" />
+    <edge source="20世紀のアジア" target="20世紀の世界史" />
+    <edge source="映像技術" target="電子工学" />
+    <edge source="映像技術" target="分野別の技術" />
+    <edge source="映像技術" target="ビデオ" />
+    <edge source="映像技術" target="放送" />
+    <edge source="映像技術" target="映画" />
+    <edge source="映像技術" target="情報技術" />
+    <edge source="映像技術" target="電気通信" />
+    <edge source="サル目" target="有胎盤類" />
+    <edge source="大陸別の民族" target="地域別の民族" />
+    <edge source="大陸別の民族" target="大陸別に分類したカテゴリ" />
+    <edge source="用途別の建築物" target="建築物" />
+    <edge source="計算機科学" target="数理科学" />
+    <edge source="計算機科学" target="情報学" />
+    <edge source="自然史" target="博物学" />
+    <edge source="自然史" target="自然科学" />
+    <edge source="自然史" target="自然" />
+    <edge source="美術" target="芸術" />
+    <edge source="美術" target="視覚" />
+    <edge source="美術" target="美" />
+    <edge source="哺乳動物の解剖学" target="哺乳類" />
+    <edge source="哺乳動物の解剖学" target="脊椎動物の解剖学" />
+    <edge source="技能" target="技術" />
+    <edge source="技能" target="学習" />
+    <edge source="行政区画の単位" target="地方区分" />
+    <edge source="行政区画の単位" target="行政区画" />
+    <edge source="行政区画の単位" target="単位" />
+    <edge source="宗教の認識論" target="宗教哲学" />
+    <edge source="宗教の認識論" target="認識論" />
+    <edge source="宗教の認識論" target="宗教的哲学" />
+    <edge source="日本の地域史" target="各国の地域史" />
+    <edge source="日本の地域史" target="日本の歴史" />
+    <edge source="日本の地域史" target="日本の地域" />
+    <edge source="日本の地域史" target="日本のテーマ史" />
+    <edge source="大陸別の地方区分" target="地方区分" />
+    <edge source="大陸別の地方区分" target="大陸別に分類したカテゴリ" />
+    <edge source="異常心理学" target="臨床心理学" />
+    <edge source="場所別に分類したカテゴリ" target="カテゴリを集めたカテゴリ_(分類指標別)" />
+    <edge source="場所別に分類したカテゴリ" target="場所" />
+    <edge source="カルコゲン" target="元素群" />
+    <edge source="性格" target="人格" />
+    <edge source="性格" target="心" />
+    <edge source="ヨーロッパの文化" target="ヨーロッパ" />
+    <edge source="ヨーロッパの文化" target="大陸別の文化" />
+    <edge source="ヨーロッパの文化" target="西洋文化" />
+    <edge source="用途別の道具" target="道具" />
+    <edge source="人格" target="自己の概念" />
+    <edge source="人格" target="心" />
+    <edge source="産業別の企業" target="企業" />
+    <edge source="産業別の企業" target="産業" />
+    <edge source="ファシズム" target="無政府主義" />
+    <edge source="ファシズム" target="政治イデオロギー" />
+    <edge source="ファシズム" target="コーポラティズム" />
+    <edge source="ファシズム" target="第三の位置" />
+    <edge source="ファシズム" target="ナショナリズム" />
+    <edge source="ファシズム" target="サンディカリスム" />
+    <edge source="ファシズム" target="社会主義" />
+    <edge source="政治経済学" target="公共経済学" />
+    <edge source="政治経済学" target="政治学" />
+    <edge source="情報処理" target="情報技術" />
+    <edge source="情報処理" target="情報学" />
+    <edge source="情報処理" target="情報" />
+    <edge source="情報処理" target="問題解決" />
+    <edge source="情報処理" target="加工" />
+    <edge source="海洋国家" target="地政学" />
+    <edge source="海洋国家" target="国の分類" />
+    <edge source="海洋国家" target="海" />
+    <edge source="形而上学的理論" target="形而上学" />
+    <edge source="形而上学的理論" target="哲学の理論" />
+    <edge source="教育の手法" target="学習" />
+    <edge source="教育の手法" target="教育" />
+    <edge source="教育の手法" target="コミュニケーション" />
+    <edge source="気候" target="環境" />
+    <edge source="気候" target="地理" />
+    <edge source="気候" target="気象" />
+    <edge source="各国の経済史" target="国別に分類したカテゴリ" />
+    <edge source="各国の経済史" target="各国の経済" />
+    <edge source="各国の経済史" target="経済史" />
+    <edge source="各国の経済史" target="各国の歴史" />
+    <edge source="比較" target="参考文献" />
+    <edge source="福祉" target="社会制度" />
+    <edge source="福祉" target="生活" />
+    <edge source="福祉" target="産業" />
+    <edge source="福祉" target="社会政策" />
+    <edge source="生命科学" target="自然科学" />
+    <edge source="生命科学" target="学際領域" />
+    <edge source="生命科学" target="生命" />
+    <edge source="20世紀" target="近代史" />
+    <edge source="アジアの国" target="大陸別の国" />
+    <edge source="アジアの国" target="アジア" />
+    <edge source="アジアの国" target="アジアの地理" />
+    <edge source="輸送" target="流通" />
+    <edge source="輸送" target="交通" />
+    <edge source="販売の手法" target="技法" />
+    <edge source="販売の手法" target="経営戦略論" />
+    <edge source="販売の手法" target="市場" />
+    <edge source="販売の手法" target="ビジネス" />
+    <edge source="販売の手法" target="流通" />
+    <edge source="販売の手法" target="マーケティング" />
+    <edge source="販売の手法" target="商業" />
+    <edge source="情報システム" target="コンピュータの利用" />
+    <edge source="情報システム" target="情報技術" />
+    <edge source="情報システム" target="システム" />
+    <edge source="情報システム" target="コンピュータネットワーク" />
+    <edge source="情報システム" target="情報処理" />
+    <edge source="分野別の哲学" target="哲学" />
+    <edge source="分野別の哲学" target="分野別に分類したカテゴリ" />
+    <edge source="インド・ヨーロッパ系諸民族" target="民族の系統" />
+    <edge source="インド・ヨーロッパ系諸民族" target="ヨーロッパの民族" />
+    <edge source="文学" target="芸術" />
+    <edge source="文学" target="言葉の文化" />
+    <edge source="文学" target="人文科学" />
+    <edge source="地域別の法" target="地域別に分類したカテゴリ" />
+    <edge source="地域別の法" target="法" />
+    <edge source="イギリスのメディア" target="各国のメディア" />
+    <edge source="イギリスのメディア" target="イギリスの社会" />
+    <edge source="イギリスのメディア" target="イギリスの文化" />
+    <edge source="千年紀" target="紀年法" />
+    <edge source="千年紀" target="暦法" />
+    <edge source="千年紀" target="年表" />
+    <edge source="千年紀" target="世界の歴史" />
+    <edge source="ヨーロッパの民族" target="ヨーロッパの社会" />
+    <edge source="ヨーロッパの民族" target="大陸別の民族" />
+    <edge source="ヨーロッパの民族" target="ヨーロッパ" />
+    <edge source="ヨーロッパの民族" target="ヨーロッパの人物" />
+    <edge source="ネットワーク" target="物理システム" />
+    <edge source="著作権法" target="知的財産法" />
+    <edge source="著作権法" target="作品" />
+    <edge source="船" target="輸送機器" />
+    <edge source="船" target="水運" />
+    <edge source="船" target="海" />
+    <edge source="語源学" target="起源・発祥" />
+    <edge source="語源学" target="歴史言語学" />
+    <edge source="語源学" target="語" />
+    <edge source="語源学" target="言語学" />
+    <edge source="中世ヨーロッパ" target="1千年紀" />
+    <edge source="中世ヨーロッパ" target="2千年紀" />
+    <edge source="中世ヨーロッパ" target="ヨーロッパ史_(時代別)" />
+    <edge source="日本の社会" target="アジアの社会" />
+    <edge source="日本の社会" target="日本" />
+    <edge source="日本の社会" target="各国の社会" />
+    <edge source="古代哲学" target="哲学史" />
+    <edge source="古代哲学" target="古代史" />
+    <edge source="環境マネジメント" target="環境" />
+    <edge source="環境マネジメント" target="公共政策" />
+    <edge source="環境マネジメント" target="経営学" />
+    <edge source="文化" target="主要カテゴリ" />
+    <edge source="イデオロギー" target="哲学の概念" />
+    <edge source="イデオロギー" target="世界観" />
+    <edge source="イデオロギー" target="政治思想" />
+    <edge source="イデオロギー" target="価値観" />
+    <edge source="イデオロギー" target="学派" />
+    <edge source="知識源" target="認識論" />
+    <edge source="知識源" target="知識" />
+    <edge source="知識源" target="認識論の概念" />
+    <edge source="アメリカ合衆国の経済史" target="アメリカ合衆国のテーマ史" />
+    <edge source="アメリカ合衆国の経済史" target="各国の経済史" />
+    <edge source="アメリカ合衆国の経済史" target="アメリカ合衆国の経済" />
+    <edge source="データ" target="情報技術" />
+    <edge source="データ" target="情報" />
+    <edge source="データ" target="コンピュータ" />
+    <edge source="数学的問題解決" target="数学" />
+    <edge source="数学的問題解決" target="問題解決" />
+    <edge source="各国の憲法" target="国別に分類したカテゴリ" />
+    <edge source="各国の憲法" target="各国の分野別の法" />
+    <edge source="各国の憲法" target="憲法" />
+    <edge source="ディアスポラ" target="民族別の人物" />
+    <edge source="ディアスポラ" target="人間の移動" />
+    <edge source="ディアスポラ" target="民族集団" />
+    <edge source="科学史" target="科学哲学" />
+    <edge source="科学史" target="認識論" />
+    <edge source="科学史" target="科学論" />
+    <edge source="科学史" target="テーマ史" />
+    <edge source="科学史" target="社会における科学" />
+    <edge source="科学史" target="科学" />
+    <edge source="科学史" target="思想史" />
+    <edge source="技術" target="主要カテゴリ" />
+    <edge source="組織_(団体)" target="社会システム" />
+    <edge source="組織_(団体)" target="人間関係" />
+    <edge source="組織_(団体)" target="社会制度" />
+    <edge source="私法" target="実体法" />
+    <edge source="私法" target="民事法" />
+    <edge source="私法" target="分野別の法" />
+    <edge source="日本のテーマ史" target="日本の歴史" />
+    <edge source="日本のテーマ史" target="各国のテーマ史" />
+    <edge source="学校教育" target="教育の手法" />
+    <edge source="学校教育" target="教育制度" />
+    <edge source="農業" target="農林水産業" />
+    <edge source="農業" target="フードビジネス" />
+    <edge source="北アメリカの経済" target="大陸別の経済" />
+    <edge source="北アメリカの経済" target="北アメリカ" />
+    <edge source="数理科学" target="自然科学" />
+    <edge source="数理科学" target="形式科学" />
+    <edge source="都市計画" target="コミュニティ" />
+    <edge source="都市計画" target="計画" />
+    <edge source="都市計画" target="国内政策" />
+    <edge source="都市計画" target="設計" />
+    <edge source="都市計画" target="学際領域" />
+    <edge source="都市計画" target="都市" />
+    <edge source="都市計画" target="開発" />
+    <edge source="世界の歴史" target="テーマ史" />
+    <edge source="世紀別に分類したカテゴリ" target="世紀" />
+    <edge source="世紀別に分類したカテゴリ" target="時間別に分類したカテゴリ" />
+    <edge source="歴史言語学" target="文化史" />
+    <edge source="歴史言語学" target="文献学" />
+    <edge source="歴史言語学" target="言語学" />
+    <edge source="政治的スペクトル" target="政治思想" />
+    <edge source="政治的スペクトル" target="政党" />
+    <edge source="無機化合物" target="無機化学" />
+    <edge source="無機化合物" target="化合物" />
+    <edge source="精神医学" target="心理学" />
+    <edge source="精神医学" target="メンタルヘルス" />
+    <edge source="精神医学" target="臨床医学" />
+    <edge source="精神医学" target="精神" />
+    <edge source="主観的体験" target="心の形而上学" />
+    <edge source="主観的体験" target="自己" />
+    <edge source="主観的体験" target="意識" />
+    <edge source="製造業" target="製造" />
+    <edge source="製造業" target="産業" />
+    <edge source="大陸別の経済" target="経済" />
+    <edge source="大陸別の経済" target="大陸別に分類したカテゴリ" />
+    <edge source="大陸別の経済" target="経済地理学" />
+    <edge source="幾何学" target="数学" />
+    <edge source="公共政策" target="政策" />
+    <edge source="公共政策" target="腐敗防止法" />
+    <edge source="公共政策" target="行政" />
+    <edge source="各国の環境" target="場所別の環境" />
+    <edge source="各国の環境" target="国別に分類したカテゴリ" />
+    <edge source="理学" target="自然科学" />
+    <edge source="国際経済" target="国際関係" />
+    <edge source="国際経済" target="経済地理学" />
+    <edge source="国際経済" target="経済" />
+    <edge source="現代史" target="時代区分" />
+    <edge source="政治的左翼" target="政治運動" />
+    <edge source="政治的左翼" target="政治的スペクトル" />
+  </graph>
+</graphml>
